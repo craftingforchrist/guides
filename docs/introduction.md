@@ -7,9 +7,11 @@ Are you seeking clarity about Crafting for Christ and our activities? Encounteri
 
 **Website:** https://craftingforchrist.net/
 
-**Java IP:** play.craftingforchrist.net
+:::info
 
-**Bedrock IP:** bedrock.craftingforchrist.net:4056
+You can find our Server connection information on our play page: https://craftingforchrist.net/play
+
+:::
 
 Follow our media platforms for information on announcements, updates, and events: 
 
