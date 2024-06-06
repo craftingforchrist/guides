@@ -29,9 +29,9 @@ All rules stated in the rules document/page apply to all players, and staff. We 
 :::
 
 # ToS and Privacy Policy
-Terms of Service: https://craftingforchrist.net/terms 
+**Terms of Service:** https://craftingforchrist.net/terms 
 
-Privacy Policy: https://craftingforchrist.net/privacy
+**Privacy Policy:** https://craftingforchrist.net/privacy
 
 :::info
 
