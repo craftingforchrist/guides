@@ -81,6 +81,11 @@ const config = {
             label: "Guides",
           },
           {
+            href: "/guides/docs/safeserver",
+            label: "Safe Server",
+            position: "left",
+          },
+          {
             href: "https://github.com/craftingforchrist",
             label: "GitHub",
             position: "right",
@@ -95,15 +100,6 @@ const config = {
       footer: {
         style: "dark",
         links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Documentation",
-                to: "/docs/introduction",
-              },
-            ],
-          },
           {
             title: "Community",
             items: [
