@@ -12,9 +12,7 @@ When you make a purchase from Crafting For Christ, you are directly contributing
 # What can I pay with?
 Currently, our shop exclusively supports PayPal as the payment gateway. We do not have plans to integrate additional payment gateways into our system at this time. We appreciate your understanding and encourage you to utilize PayPal for your transactions on our platform.
 
-# I didn't get my rank!
-
-## I didn't get my rank on Minecraft
+## I didn't get my rank!
 If you've been waiting for 12 hours and still haven't received your rank or any other purchased items, it's possible that there may have been an issue processing your payment. Please don't hesitate to reach out to our Support Team at support@craftingforchrist.net if you find yourself in this situation, and we'll work diligently to resolve the matter promptly.
 
 ## I didn't get my rank on Discord
