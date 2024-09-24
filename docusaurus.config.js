@@ -81,7 +81,7 @@ const config = {
             label: "Guides",
           },
           {
-            href: "/guides/docs/safeserver",
+            href: "/docs/safeserver",
             label: "Safe Server",
             position: "left",
           },
