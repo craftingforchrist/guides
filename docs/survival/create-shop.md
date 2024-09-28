@@ -20,17 +20,18 @@ For instance, in Fig 1: The shop is selling 64 diamonds at $1 each.
 :::
 # Shop Settings
  If you Right-Click the shop sign you will see a menu pop up in chat that displays 
+ ![shop mode](./img/shop/shop-settings.png)
 # Shop Modes
 To switch between selling or buying items use: 
 * Right-Click the shop sign
 * In the chat menu Left-Click Shop mode: Selling **[Change]** or Shop mode: Buying **[Change]**
 
 Below are examples of the different modes:
-![shop mode](./img/shop/sign-format-1.png)
+![shop mode](./img/shop/shop-mode-1.png)
 
 This format is an example of a shop where you can sell items to earn money.
  
-![shop mode](./img/shop/sign-format-2.png)
+![shop mode](./img/shop/shop-mode-2.png)
 
 This format is an example of a shop where players can sell you items in exchange for money from your balance.
 
