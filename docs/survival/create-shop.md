@@ -36,7 +36,7 @@ This format is an example of a shop where you can sell items to earn money.
 This format is an example of a shop where players can sell you items in exchange for money from your balance.
 
 ## Confirmation
-If you've set up your shop correctly, you should see a sign appear on your shop.
+If you've set up your shop correctly, you should see a shop sign appear in front of the chest.
 
 # I am having issues what to call my shop item.
 **Trouble Naming Items:** If you're unsure about how to name an item on the sign in your shop, you can hold the item in your hand while you use `/qs create [price]` to create your shop
