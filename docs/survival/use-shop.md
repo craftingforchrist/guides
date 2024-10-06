@@ -15,9 +15,6 @@ Make sure you have sufficient funds before making purchases. To check, use the /
 
 :::
 
-To use a Player's Chest Shop, simply go up to their chest item and there are 2 actions of the following:
-
-| Click       | Action                                      |
-| ----------- | ------------------------------------------- |
-| Left Click  | Will buy an item for the amount specified.  |
-| Right Click | Will sell an item for the amount specified. |
+To use a Player's Chest Shop, simply go up to their chest and left-click the sign. The shop will prompt you to enter the number of items you wish to purchase in chat. 
+![position sign on chest](./img/shop/using-a-shop.png)
+After entering the desired number of items in chat you will receive your items.
