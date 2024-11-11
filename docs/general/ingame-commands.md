@@ -16,7 +16,7 @@ sidebar_position: 3
 | /ping                                           | Test your connection speed to the server.                                                                                |
 
 # Survival Commands 
-Check https://guides.craftingforchrist.net/docs/survival for more information on specific commands.
+
 | Command                                         | Description                                                                                                              |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | /spawn                                          | Teleport to world spawn.                                                                                                 |
