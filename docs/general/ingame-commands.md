@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 ---
-#CFC Command Index
+# Command Index
 
 # Server-Wide Commands
 | Command                                         | Description                                                                                                              |
