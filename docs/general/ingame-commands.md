@@ -23,10 +23,10 @@ sidebar_position: 3
 | /sethome \<name\>                               | Set a player home to your current location.                                                                              |
 | /delhome \<name\>                               | Delete a player home.
 | /home \<name/bed\>                              | Teleport to your home.                                                                                                   |
-| /sell hand \<number\>                           | While holding diamonds in your hand, convert the desired amount into currency.                                           |
+| /sell hand \<amount\>                           | While holding diamonds in your hand, convert the desired amount into currency.                                           |
 | /bal                                            | Check your currency balance.                                                                                             |
 | /baltop                                         | Check the top player balances.                                                                                           |
-| /qs create \<price\> <\item\>                   | Create a playershop.                                                                                                     |           
+| /qs create \<price\> \<item\>                   | Create a playershop.                                                                                                     |           
 | /qs remove                                      | Remove a playershop.                                                                                                     |
 | /qs item \<item\>                               | Change the item being sold at a shop. Hold the desired item in your hand or put the item's name in chat.                 |
 | /qs price \<price\>                             | Change the price of a shop.                                                                                              |
