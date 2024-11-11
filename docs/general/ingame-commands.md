@@ -1,8 +1,9 @@
 ---
 sidebar_position: 3
 ---
+#CFC Command Index
 
-# Network-Wide Commands
+# Server-Wide Commands
 | Command                                         | Description                                                                                                              |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | /rules                                          | Link to the server rules.                                                                                                |
