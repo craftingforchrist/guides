@@ -9,6 +9,7 @@ Disabling your villagers' AI can reduce their impact on server performance. This
 Please Note: Disabling villagers' AI will stop them from spawning iron golems. This feature is designed for use in trading halls.
 
 :::
+
 :::info
 We are still testing this plugin. If any issues arise please let a staff member know.
 
