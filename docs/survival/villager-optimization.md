@@ -21,10 +21,10 @@ Before disabling the villager ai, ensure your villager is in a safe location lik
 Once the villager is in the desired location you can use a nametag to name them `Bonk` or `Optimize`. Unlike renaming other mobs, this will not consume the nametag!
 
 Using Bonk:
-![villager in hall](./img/villager/Bonk.png)
+![bonk](./img/villager/Bonk-1.png)
 
 Using Optimize:
-![villager in hall](./img/villager/Optimize.png)
+![optimize](./img/villager/Optimize-1.png)
 
 Success! Your villager's AI is now disabled!
 # Enabling Villager AI
