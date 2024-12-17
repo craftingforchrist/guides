@@ -26,7 +26,7 @@ Using Bonk:
 Using Optimize:
 ![villager in hall](./img/villager/Optimize.png)
 
-Success! You villager's AI is now disabled!
+Success! Your villager's AI is now disabled!
 # Enabling Villager AI
 
-If you need to move your villager, or otherwise need their AI enabled, simply, rename the villager to anything else! 
+If you need to move your villager, or otherwise need their AI enabled, simply, rename the villager to anything else! Note: There is a 10-minute cooldown on renaming villagers.
