@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# What commands do I use to claim land?
+# Land Claiming Command Reference
 Command
 
 Description

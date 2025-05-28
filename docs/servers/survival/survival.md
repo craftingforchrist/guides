@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Survival
 
-
-# 🌿 Our Survival Server: A Vanilla+ Experience 🌿
 Combining the classic Minecraft feel with Quality of Life (QoL) enhancements that improve gameplay — all while staying true to the core mechanics of the game. Our community also values faith, fellowship, and friendship, creating a place where everyone is welcome to grow, build, and thrive together.
 
 ## ❓ What is Vanilla+?
@@ -40,6 +38,6 @@ Stay connected and build fellowship with fellow players.
 ## 🙌 A Faith-Filled Fellowship
 
 Whether you're here to build, survive, or just relax, this server is a place where faith and fellowship flourish. We encourage:
-- Kindness and respect 🤝  
+- Kindness and respect 🤝
 - Helping hands and open hearts 💖  
 - Building not just bases, but relationships grounded in trust, creativity, and care 🌟
