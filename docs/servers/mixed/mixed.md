@@ -73,3 +73,14 @@ The goal: survive as long as possible or spread the infection!
 Great for large groups and chaotic fun.
 
 The Mixed PvP Arena isn’t just about winning — it’s about learning, improving, and connecting. Whether you're new or experienced, you’ll find a place here to grow your skills and have a blast with friends.
+
+## Can I submit/create my own maps?
+
+If you’re interested in contributing your own map, you’re welcome to submit your creation for consideration using our submission process. Likewise, if you already have a map published and wish to share an updated or revised version, you can request an update. We encourage community involvement and are always looking for new and improved content to enhance the experience for everyone!
+
+<div className="button-group">
+  <a className="button button--primary" href="/servers/mixed/map-making/map-makers-guide">Map Makers Guide</a>
+  <a className="button button--primary" href="/servers/mixed/map-making/map-submission-policy">Map Submission Policy</a>
+  <a className="button button--info" href="https://craftingforchrist.short.gy/map-submission">Map Submission Application</a>
+  <a className="button button--info" href="https://craftingforchrist.short.gy/map-revision">Map Revision Application</a>
+</div>

@@ -25,22 +25,23 @@ Include all necessary files:
 
 :::info
 
-Test your map thoroughly before submission to ensure it works as intended with the gameplay mechanics.
+If you are interested in creating your own `map.xml`, you can find detailed guidance and examples in the official PGM documentation - https://pgm.dev/docs/modules/introduction. 
+
+While we do not require you to make your own XML file—our team can assist with this step.
+
+*Please note: That maps submitted without a completed `map.xml` will take longer to become available for testing if approved, as additional setup will be needed before they can be added to the map pool.*
 
 :::
 
 ## 3. Quality and Design Standards
 Maps should be well-designed, balanced, and fun to play.
 
-Avoid overly repetitive or generic themes. Strive for creativity and uniqueness in both layout and aesthetics.
+* Avoid overly repetitive or generic themes. Strive for creativity and uniqueness in both layout and aesthetics.
+* Ensure both sides of the map are symmetrical and fair for all teams in team-based modes.
+* Focus on gameplay experience: Provide enough space for PvP, cover for ranged combat, and clear objectives.
+* Avoid overly complex or confusing layouts that could frustrate players or disrupt the flow of the game.
 
-Ensure both sides of the map are symmetrical and fair for all teams in team-based modes.
-
-Focus on gameplay experience: Provide enough space for PvP, cover for ranged combat, and clear objectives.
-
-Avoid overly complex or confusing layouts that could frustrate players or disrupt the flow of the game.
-
-Maps that do not meet these standards will be returned for revision or rejected.
+**Maps that do not meet these standards will be returned for revision or rejected.**
 
 ## 4. Feedback and Updates
 Be open to feedback from the community and server staff.
@@ -50,11 +51,16 @@ Inactive submissions or authors who do not respond to feedback may have their ma
 ## 5. Submission Process
 Submit your map through the official repository (e.g., GitHub).
 
-Create a new issue using the provided template.
+:::info
 
-Fill out all required information, including a description of the map, intended game mode, and any special features.
+When attaching and collating all the necessary files, we recomend reading "Packaging and Releasing" from the PGM documentation site.
+> https://pgm.dev/docs/guides/preparing/packaging-and-releasing
 
-Attach all necessary files (map.xml, pruned files, map.png).
+:::
+
+* Create a new issue using the provided template.
+* Fill out all required information, including a description of the map, intended game mode, and any special features.
+* Attach all necessary files (map.xml, pruned files, map.png).
 
 Follow the instructions in the repository’s documentation for a smooth submission experience.
 
