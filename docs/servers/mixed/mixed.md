@@ -10,7 +10,7 @@ Our goal is to offer a less toxic, more enjoyable PvP experience. Whether you’
 
 We value community — this is a space built for players who want to grow their skills, work as a team, and build friendships along the way.
 
-## What Makes This Arena Unique?
+## What Makes Mixed Unique?
 
 * **Objective-Based Modes** – Go beyond just fighting; every mode has a goal that requires coordination.
 * **Welcoming Environment** – Competitive without the negativity.
