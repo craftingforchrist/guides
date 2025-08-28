@@ -4,6 +4,8 @@ sidebar_position: 20
 
 # A Survivor's Guide to the Midnight Hold
 
+![Image](https://i.imgur.com/g5sZ0ch.png)
+
 ## The Long Night
 
 Welcome, Survivor. If you're reading this, you've found one of the last bastions against the darkness: a Midnight Hold. Our mission is simple, but far from easy: protect the Core Beacon at all costs. Every night, the creatures of the dark will throw themselves at our defenses in waves, seeking to extinguish the light.
