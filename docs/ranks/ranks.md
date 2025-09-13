@@ -44,16 +44,3 @@ Supporting Crafting For Christ comes with rewards that enhance your gameplay exp
 * **Recognition:** Your support shows that you care about the longevity and growth of the server.
 
 By contributing, you’re not just enhancing your own experience — you’re investing in a better experience for every player on the server.
-
----
-
-## Frequently Asked Questions
-
-**Q: Is the server free-to-play even if I don’t support it?**
-A: Absolutely! Crafting For Christ remains completely free for all players. Supporting the server is optional, but it helps us expand features and maintain quality.
-
-**Q: Are transactions secure?**
-A: Yes. All transactions are handled through secure payment systems, and your personal information is never shared.
-
-**Q: Can I get in-game perks without supporting?**
-A: While many perks are available through ranks, there are still numerous ways to enjoy the game fully as a free player.
