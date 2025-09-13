@@ -3,60 +3,88 @@ sidebar_position: 1
 slug: /
 ---
 
-# Introduction
-Are you seeking clarity about Crafting for Christ and our activities? Encountering issues that need resolution? Eager to know how you can make a positive impact? You've come to the right place!
+# Welcome to Crafting For Christ
 
-**Website:** https://craftingforchrist.net/
+Crafting For Christ is more than just a Minecraft network — it’s a **safe, family-friendly, faith-based community** where players of all ages can play, build, and grow together.
 
-:::info
+If this is your first time joining, this guide will walk you through **everything you need to know** to get started, find your way around, and begin your adventure.
 
-You can find our Server connection information on our play page: https://craftingforchrist.net/play
+**Website:** [https://craftingforchrist.net/](https://craftingforchrist.net/)
+**Server Connection Info:** [https://craftingforchrist.net/play](https://craftingforchrist.net/play)
 
-:::
+Follow us on social media for announcements, updates, and events:
+**Twitter:** [https://twitter.com/craft4christmc](https://twitter.com/craft4christmc)
+**Instagram:** [https://instagram.com/craftingforchrist](https://instagram.com/craftingforchrist)
+**Discord:** [https://craftingforchrist.net/discord](https://craftingforchrist.net/discord)
 
-Follow our media platforms for information on announcements, updates, and events: 
+---
 
-**Twitter:** https://twitter.com/craft4christmc 
+## ✝️ What Makes Crafting For Christ Different
 
-**Instagram:** https://instagram.com/craftingforchrist
+### 🙌 Christian-Focused Community
 
-**Discord:** https://craftingforchrist.net/discord
+* Our community is grounded in Christian values like **kindness, respect, and forgiveness**.
+* Chat is moderated to remain **clean and encouraging**, creating a safe environment for kids, teens, and adults.
+* We host **faith-focused events** and provide a place for prayer requests and fellowship.
 
-# Rules
-https://craftingforchrist.net/rules
+### 🌎 Multiple Worlds & Experiences
 
-:::warning
+* **Survival** – Gather resources, build, explore, and thrive with others.
+* **Creative** – Build freely with unlimited resources (for supporters only).
+* **Mixed** – Participate in seasonal events, minigames, and community challenges.
+* **Events** – Enjoy special events and community challenges when available.
 
-All rules stated in the rules document/page apply to all players, and staff. We will make efforts to notify you of changes to our rules and policies, however, it is your responsibility to ensure that you are up to date with any and all revisions of the Crafting For Christ rules.
+### 🛡 Safe & Family-Friendly
 
-:::
+* **Active Moderation** – Our staff team monitors the server to keep it safe.
+* **Anti-Griefing Systems** – Land claims protect your builds.
+* **Supportive Players** – The community is eager to help newcomers get started.
 
-# ToS and Privacy Policy
-**Terms of Service:** https://craftingforchrist.net/terms 
+---
 
-**Privacy Policy:** https://craftingforchrist.net/privacy
+## Rules, Terms, and Policies
 
-:::info
+**Rules:** [https://craftingforchrist.net/rules](https://craftingforchrist.net/rules)
 
-By using any of our services, you assert that you have fully read and understood and agree to our Rules, Privacy Policy and Terms of Service. If you haven’t, the Rules can be found above, and the Terms of Service and Privacy Policy can be found at the links below. If you do not agree with them for any reason, please cease using the Crafting For Christ services.
+**Terms of Service:** [https://craftingforchrist.net/terms](https://craftingforchrist.net/terms)
 
-:::
+**Privacy Policy:** [https://craftingforchrist.net/privacy](https://craftingforchrist.net/privacy)
 
-We're here to provide the information and support you need. Here's how you can get in touch:
+**Refund Policy:** [https://craftingforchrist.net/refund](https://craftingforchrist.net/refund)
 
-## 1. Questions and Concerns
-If you have questions or concerns about Crafting for Christ or anything related to your experience with us, don't hesitate to reach out. We're here to assist you. Look for our Staff Team members; they are easily identifiable by their "STAFF" tag when you're in the game.
+---
 
-## 2. Email Us
-For a more formal approach or if you prefer written communication, you can send us an email at support@craftingforchrist.net. We welcome your inquiries, suggestions, and feedback.
+## 🙏 Our Commitment to You
 
-## 3. Discord Community
-Join our public Discord server to engage with us and connect with fellow community members. Discord is a vibrant platform for discussions, announcements, and general interaction. We value your input and participation in our growing community.
+* **Safe, non-toxic environment** for all players.
+* **Fair gameplay** – no pay-to-win mechanics.
+* **Community support** – our staff and player base are here to help.
 
-## 4. Help Us Improve
-If you come across any errors or areas in our guides that need clarification or correction, please let us know. We're committed to providing accurate and helpful information. You can reach out via email at support@craftingforchrist.net or speak with one of our Staff Members.
+Whether you’re building massive structures, farming with friends, or just hanging out, we’re excited to have you in the community.
 
-Thank you for being a part of Crafting for Christ. We appreciate your engagement and look forward to assisting you, hearing your ideas, and continually improving our community.
+---
 
-In Christ,
-The Crafting For Christ Staff Team
+## Contact & Support
+
+### 1. Questions and Concerns
+
+Look for Staff Team members in-game (identifiable by the "STAFF" tag) for assistance.
+
+### 2. Email
+
+For formal inquiries, suggestions, or feedback, email us at **[support@craftingforchrist.net](mailto:support@craftingforchrist.net)**.
+
+### 3. Discord Community
+
+Join our [public Discord server](https://craftingforchrist.net/discord) to connect with staff and fellow community members.
+
+### 4. Help Us Improve
+
+If you notice errors or areas for clarification in our guides, please inform us via email or in-game through our staff.
+
+---
+
+Thank you for being part of Crafting For Christ. We appreciate your engagement and look forward to growing this community together.
+
+**In Christ,
+The Crafting For Christ Staff Team**
