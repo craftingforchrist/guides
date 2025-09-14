@@ -4,84 +4,91 @@ sidebar_position: 1
 
 # Homes & Teleportation
 
-Getting around the Survival world can take time, but our **home system** makes it easy to return to your favorite locations quickly and safely. Whether it’s your base, farm, or a hidden build project, homes help you spend less time traveling and more time playing.
+Homes allow you to save your favorite locations and return to them quickly — perfect for base locations, farms, mines, and special builds. Mastering the home system will make your survival experience far smoother.
 
 ---
 
 ## What Are Homes?
 
-Homes are **saved teleport locations** that you can set anywhere you have permission to build. This lets you jump back to your base, your mine, or your favorite biome with just a single command — no long walks required.
+A **home** is a saved location that you can teleport back to at any time. Homes are unique to you and remain saved even if you log out or the server restarts.
 
 ---
 
 ## Key Commands
 
-Here’s how to take full advantage of the home system:
+Here are the commands you’ll use most often:
 
-### `/sethome [name]`
+* **`/sethome [name]`** – Saves your current location as a home.
 
-Save your current location as a home.
+  * Example: `/sethome base`
+  * You can give your home a custom name (like `farm`, `mine`, or `village`).
 
-* If you don’t specify a name, it will set your default home.
-* You can have some multiple homes, you can set different names like `/sethome base`, `/sethome mine`, `/sethome farm` and if you support the server you can gain more additional homes.
+* **`/home [name]`** – Teleports you to the named home.
 
----
+  * If you only have one home, you can simply type `/home`.
 
-### `/home [name]`
+* **`/home bed`** – Teleports you to the last bed you slept in.
 
-Teleport to your home.
+  * Perfect if you lose track of your base but still have a bed spawn set.
 
-* `/home` with no name takes you to your default home.
-* `/home base` (or other name) teleports you to that specific home.
-
----
-
-### `/home bed`
-
-Teleport to the last bed you slept in.
-
-* This is useful if you haven’t set a home yet.
-* It only works if your bed still exists in the world.
-
----
-
-### `/delhome [name]`
-
-Delete a saved home.
-
-* Use this if you no longer need a location or want to free up space for another home.
+* **`/delhome [name]`** – Removes a saved home you no longer need.
 
 ---
 
 ## Multiple Homes
 
-Higher ranks or supporter tiers often unlock **additional homes**. These are perfect for:
+If your rank allows it, you can set **multiple homes**. This is extremely useful for:
 
-* **Mining Outposts:** Save time returning to your favorite branch mine or resource-rich cave.
-* **Farms:** Quickly check on crops, mob farms, or automated redstone contraptions.
-* **Community Projects:** Easily contribute to shared builds by setting a home nearby.
-* **Adventure Spots:** Bookmark cool biomes, structures, or villages you discover.
+* **Mining Trips:** Save a home deep underground to return quickly.
+* **Farms & Animal Pens:** Jump back to your crops or breeding areas.
+* **Exploration:** Mark interesting structures, villages, or biomes.
 
-> **Tip:** Keep track of your homes by naming them clearly (e.g. `/sethome desert_village` or `/sethome spawner`).
-
----
-
-## Travel Notes & Strategy
-
-Our server does **not allow direct player-to-player teleportation** (like `/tpa` or `/tpaccept`). This encourages a more immersive, exploration-focused survival experience. This is addressed futher [here](./faq.md)
-
-Here are some ways to travel smart:
-
-* **Plan Your Routes:** Set homes near key resource areas to cut down on back-and-forth trips.
-* **Use Warps:** If warps are available, combine them with your homes for even faster access.
-* **Build Nether Highways:** The Nether is 8× faster for travel (1 block in the Nether = 8 blocks in the Overworld). Many players build roads or ice boat highways in the Nether to link distant bases.
-* **Community Transit Systems:** Some servers have shared rail lines, boats, or portals.
+> **Tip:** Keep your home names simple and memorable so you don’t forget them later.
 
 ---
 
-## Best Practices
+## Travel Strategy
 
-* **Set a Home Early:** As soon as you find a spot to build, use `/sethome` so you don’t lose it.
-* **Avoid Overwriting by Mistake:** Always name your homes if you have multiple; setting a new unnamed home will overwrite your default.
-* **Keep a Backup Bed:** Beds are cheap — having one near your main base and one near your mine can save you time if you die.
-* **Coordinate With Friends:** Even though you can’t teleport to them, you can set a home near their base for easy visits (with their permission).
+* **Plan Ahead:** There is **no player-to-player teleportation** (like `/tpa`). Coordinate with friends and set homes near each other if you plan to work together.
+* **Use the Nether:** Build Nether portals to connect distant bases with fast travel highways.
+* **Set Multiple Checkpoints:** If traveling far, set temporary homes along the way to make returning easier.
+
+---
+
+# Warps & World Navigation
+
+Warps let you move instantly between major areas of the server. Understanding how to use warps will save you a lot of time traveling across the world.
+
+---
+
+## What Are Warps?
+
+Warps are **server-designated teleport points** that take you to key locations. They’re great for quickly reaching shops, community areas, and major roads leading out of spawn.
+
+---
+
+## Warp Types
+
+### Walk-In Banner Warps
+
+In many areas, you’ll see **banner portals**. Simply walk through them, and you’ll be teleported to the corresponding location.
+
+---
+
+### Cardinal Direction Warps
+
+Spawn typically has **North, South, East, and West exits**, marked with signs or banners. These take you a set distance away from spawn, ideal for starting a base far enough out to avoid crowded areas.
+
+---
+
+### Shopping District Warp
+
+Use this warp to visit the **economy hub** where you can buy and sell goods, visit player shops, and interact with the server’s economy.
+
+---
+
+## Navigation Tips
+
+* **Build Near a Warp:** This makes travel to and from spawn and shops much easier.
+* **Use Warps for Resource Gathering:** Many servers have warp points to special mining or farming areas.
+* **Combine Warps with Homes:** Set a home near your favorite warp for quick access to highways or community builds.
