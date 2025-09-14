@@ -10,11 +10,14 @@ Crafting For Christ is more than just a Minecraft network — it’s a **safe, f
 If this is your first time joining, this guide will walk you through **everything you need to know** to get started, find your way around, and begin your adventure.
 
 **Website:** [https://craftingforchrist.net/](https://craftingforchrist.net/)
+
 **Server Connection Info:** [https://craftingforchrist.net/play](https://craftingforchrist.net/play)
 
 Follow us on social media for announcements, updates, and events:
 **Twitter:** [https://twitter.com/craft4christmc](https://twitter.com/craft4christmc)
+
 **Instagram:** [https://instagram.com/craftingforchrist](https://instagram.com/craftingforchrist)
+
 **Discord:** [https://craftingforchrist.net/discord](https://craftingforchrist.net/discord)
 
 ---
