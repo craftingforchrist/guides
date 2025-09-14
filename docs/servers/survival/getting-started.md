@@ -20,7 +20,7 @@ When you first join, you’ll spawn in the **central hub area**, where you can f
 
 ### 1. Leave Spawn
 
-Follow the **clearly marked paths** out of spawn. These lead you safely away from protected areas so you can begin your adventure.
+Follow the **clearly marked paths** out of spawn or use the banners to safely warp you away from spawn. These lead you safely away from protected areas so you can begin your adventure.
 
 ---
 
