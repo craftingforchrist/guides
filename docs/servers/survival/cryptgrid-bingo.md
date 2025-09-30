@@ -1,8 +1,8 @@
 ---
-sidebar_position: 10
+sidebar_position: 6
 ---
 
-# CryptGrid Bingo
+![cryptgrid logo](./img/cryptgrid-logo.png)
 
 Every month, the community will be taking on a 5×5 Bingo card of survival challenges, but all of the objectives are hidden and scattered with hints! Work together to reveal the board, race to be first on objectives, and climb the leaderboard!
 
@@ -19,7 +19,6 @@ Each month is released as a new **Volume**:
 * **Shared Card:** The entire community plays on one Bingo card.
 * **Community Reveal:** When any player completes an objective, that square is revealed for everyone.
 * **Individual Progress:**
-
   * Each player’s **progress and points are tracked individually**.
   * Only the **first player** to complete/discover an objective earns the points for it.
 * **Bonuses:** Extra points are awarded for completing rows, columns, diagonals, and the full card.
