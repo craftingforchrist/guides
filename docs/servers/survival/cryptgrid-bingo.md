@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# CryptGrid Bingo
+
 ![cryptgrid logo](./img/cryptgrid-logo.png)
 
 Every month, the community will be taking on a 5×5 Bingo card of survival challenges, but all of the objectives are hidden and scattered with hints! Work together to reveal the board, race to be first on objectives, and climb the leaderboard!
