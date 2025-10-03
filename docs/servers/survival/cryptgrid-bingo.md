@@ -6,73 +6,69 @@ sidebar_position: 6
 
 ![cryptgrid logo](./img/cryptgrid-logo.png)
 
-Every month, the community will be taking on a 5×5 Bingo card of survival challenges, but all of the objectives are hidden and scattered with hints! Work together to reveal the board, race to be first on objectives, and climb the leaderboard!
+**CryptGrid Bingo** is a recurring community survival challenge played on a 5×5 board of hidden objectives. Play to **reveal** the board, **race** to discover objectives first, and **score points** to climb the leaderboard.
 
-## 📚 Volumes & Themes
+---
 
-Each month is released as a new **Volume**:
+## 🔄 How Each Volume Works
 
-* **Title & Theme:** Every Volume has a unique title, and sometimes a special theme (e.g., farming focus, combat-heavy, exploration adventures).
-* **Fresh Start:** On the **1st of each month**, a new Volume begins with **25 fresh objectives**.
-* **Community Driven:** Players can suggest new challenge ideas for upcoming Volumes in **`#survival-bingo-suggestions`** on Discord.
+* **New Volume, New Board**: Each event runs as a **Volume** with configured **start/end dates** (we typically run one per month). When a Volume begins, you get **25 fresh, hidden objectives** on a 5×5 card.
+* **Theme & Variety**: Volumes can lean into different styles—**farming**, **combat**, **exploration**, crafting, or quirky twists.
+* **Community Ideas**: Suggest future challenges in **`#survival-bingo-suggestions`** on Discord.
 
-## 📅 About the Event
+---
 
-* **Shared Card:** The entire community plays on one Bingo card.
-* **Community Reveal:** When any player completes an objective, that square is revealed for everyone.
-* **Individual Progress:**
-  * Each player’s **progress and points are tracked individually**.
-  * Only the **first player** to complete/discover an objective earns the points for it.
-* **Bonuses:** Extra points are awarded for completing rows, columns, diagonals, and the full card.
+## 🧮 Scoring & Bonuses
 
-## 🧩 Hint Reveals
+* **Objective Points (everyone):** When you complete an objective, **you** earn its **points**, even if someone else did it earlier.
+* **Discovery Bonus (first only):** If the objective was still hidden, the **first player to complete it** also gets a small **discovery bonus**.
+* **Line & Full-Card Bonuses (per player):** Earn **extra points** for finishing **rows, columns, diagonals**, and your **full card**.
 
-To keep things exciting, **hints** unlock every few days:
+---
 
-* **Where:** Viewable in the **/bingo card**.
-* **What:** Hints give partial clues toward objectives (e.g., item type, biome hint, activity category).
-* **Why:** They guide you toward unrevealed objectives, but the **first to complete** still gets the points.
+## 🧩 How Objectives Reveal
+
+* **By Discovery:** When **any player** completes a hidden objective, that square is **revealed for everyone** (in Shared Card mode) and its clue becomes visible.
+* **By Time (automatic hints):** Some hints unlock on a **timer** during the Volume to guide you toward unrevealed squares.
+
+---
 
 ## 🃏 The Bingo Card
 
 * **25 Objectives:** A mix of farming, crafting, exploration, and combat challenges.
-* **Community Reveal:** Objectives are revealed once partially start or completed by anyone.
-* **Individual Completion:** The first player to discover the objective earns its points and will additionally earn points on completion.
-* **Tracking:** Use `/bingo card` to check revealed objectives, unlocked hints, and your personal progress.
+* **Tracking:** Use **`/bingo`** or **`/bingo card`** to check revealed objectives, unlocked hints, and your personal progress.
+* **Competition + Cooperation:** You’re racing for **first discoveries** while the community helps **uncover the board**.
+
+---
 
 ## ▶️ How to Participate
 
-1. **Log in & Open the Card**
-
-   * Type **`/bingo card`** to view this month’s board.
-
-2. **Complete Objectives**
-
-   * Play survival as normal. Be first to finish an objective to score points and reveal it for everyone.
-
-3. **Earn Bonuses**
-
-   * Extra points for completing **rows, columns, diagonals**, and the **full card** as a community.
-
-4. **Track Your Standing**
-
-   * **`/bingo points`** → your score
-   * **`/bingo top`** → current leaderboard
+1. **Open the Board**
+   Use **`/bingo`** or **`/bingo card`** to view this Volume’s card.
+2. **Play & Discover**
+   Play survival as normal. Completing a **hidden** objective may **reveal** it for everyone (Shared Card) and can award you the **discovery bonus**.
+3. **Complete for Points**
+   Finish objectives to earn **points** (everyone who completes an objective gets its points).
+4. **Chase Bonuses**
+   Plan routes to complete **rows, columns, diagonals**, and **your full card** for extra points.
 
 ---
 
 ## 💻 Commands
 
-| Command         | Description                |
-| --------------- | -------------------------- |
-| `/bingo`        | Opens the Bingo card GUI.  |
-| `/bingo help`   | Displays the help message. |
-| `/bingo points` | Shows your current points. |
-| `/bingo top`    | Displays the leaderboard.  |
+| Command                     | Description                                            |
+| --------------------------- | ------------------------------------------------------ |
+| `/bingo`                    | Opens the Bingo card GUI.                              |
+| `/bingo card`               | Shows this Volume’s board (same as `/bingo`).          |
+| `/bingo help`               | Displays the help message.                             |
+| `/bingo points`             | Shows your current points.                             |
+| `/bingo top`                | Displays the leaderboard.                              |
+| `/bingo reveal <objective>` | Reveals a hint that has already unlocked for that key. |
 
+---
 
 ## 🚀 Community Tips
 
-* Use **hints** as they unlock to plan your strategy.
-* Work with others to complete lines for bonus points.
-* Drop your challenge ideas in **`#survival-bingo-suggestions`** to help shape future Volumes.
+* Check **newly unlocked hints** regularly to aim at unrevealed squares.
+* **Route plan** for line bonuses—sometimes a slightly slower discovery leads to a bigger payoff.
+* Share ideas in **`#survival-bingo-suggestions`** to shape upcoming Volumes.
