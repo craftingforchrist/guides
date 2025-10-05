@@ -64,7 +64,7 @@ sidebar_position: 6
 | `/bingo points`             | Shows your current points.                             |
 | `/bingo top`                | Displays the leaderboard.                              |
 | `/bingo reveal <objective>` | Reveals a hint that has already unlocked for that key. |
-| `/bingo optin`              | Opt in to the current Bingo Volume to start tracking your progress. |
+| `/bingo optin`              | Opt in to the current Bingo Volume to start tracking your progress if you have opted out. |
 | `/bingo optout`             | Opt out of the current Bingo Volume; your progress won’t be tracked until you opt back in. |
 
 ---
