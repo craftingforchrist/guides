@@ -59,11 +59,18 @@ Use /kc redeem during this period to claim your gifts.
 
 ## 📅 Event Timeline
 
-* Reveal Date: <t:1734008400:D>
+* Reveal Date: 20/12/2025 00:00:00 (UTC)
 
-> Gift Submission Period: Begins at reveal and lasts until redemption starts
+Participants are assigned their recipient.
 
-* Redemption Period: <t:1735045200:D> → <t:1735650000:D>
+Gift Submission Period:
+
+Begins at the reveal date and continues until the redemption window opens.
+
+* Redemption Period:
+25/12/2025 00:00:00 (UTC) → 01/01/2026 23:59:59 (UTC)
+
+Players can redeem all gifts submitted to them during this timeframe.
 
 ## 🎄 A Season for Giving
 
