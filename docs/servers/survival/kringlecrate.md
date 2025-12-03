@@ -12,11 +12,10 @@ As we celebrate the season of giving, let’s reflect on the greatest gift of al
 
 * Use /kc join to opt in.
 * Your wishlist is automatically created when you join.
-
-> Joining is blocked during the redemption window to keep pairings fair.
-
 * Participants will be assigned a random recipient.
 * Use /kc reveal on Reveal Day to discover who you’ll be blessing this season!
+
+> Joining is blocked during the redemption window to keep pairings fair.
 
 ### 🎁 Gifting & Wishlist
 
