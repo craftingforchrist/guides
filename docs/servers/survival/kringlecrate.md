@@ -24,8 +24,8 @@ As we celebrate the season of giving, let’s reflect on the greatest gift of al
 Use your wishlist to help your person know what kinds of gifts you would enjoy.
 
 * /kc wishlist — View your wishlist
-* /kc wishlist add <item> — Add an entry
-* /kc wishlist remove <item> — Remove an entry
+* /kc wishlist add ITEM — Add an entry
+* /kc wishlist remove ITEM — Remove an entry
 
 ### 🎁 Submit Your Gift(s)
 
@@ -39,7 +39,7 @@ After you’ve revealed your assigned recipient:
 
 #### Currency Gifts
 
-* Use /kc submit currency <amount>
+* Use /kc submit currency AMOUNT 
 * Currency is withdrawn immediately
 
 ### Gift Submission Rules
