@@ -11,8 +11,10 @@ sidebar_position: 3
 | /website                                        | Link to the server website.                                                                                              |
 | /apply                                          | Link to the applications page.                                                                                           |
 | /server \<server\>                              | Switch to a server (Survival, Hub, Mixed, Events).                                                                       |
-| /msg \<username\> \<message\>                   | Send a private message to a player.                                                                                      |
-| /reply \<message\>                              | Reply to the user who last sent you a message.                                                                           |
+| /msg \<username\> \<message\>                   | Send a private message to a player. Aliases: /m, /w, /whisper, /tell, /t.                                                |
+| /reply \<message\>                              | Reply to the user who last sent you a message. Alias: /r.                                                                |
+| /ignore \<username\>                            | Ignore private messages from a player. Alias: /ignores.                                                                  |
+| /togglemessages                                 | Toggle whether other players can send you private messages. Alias: /toggle-messages.                                    |
 | /report \<username\> \<reason\>                 | Report a player you believe is breaking the rules.                                                                       |
 | /ping                                           | Test your connection speed to the server.                                                                                |
 | /verify                                         | Request a 6-digit code to link your website account. Works anywhere on the network; if you can't join the network (e.g. banned), use the separate verification server instead. |
