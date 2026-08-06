@@ -46,29 +46,24 @@ Creates a claim where you are standing. The size depends on your available claim
 
 ### Managing Permissions
 
-Granting or removing permissions allows you to control who can interact with your land.
+Granting or removing permissions allows you to control who can interact with your land. Our claim plugin (GriefDefender) uses four trust levels, each with its own command:
 
-**Basic Commands:**
+* `/accesstrust [player]` – Lets a player enter your claim and use doors, buttons, levers, and beds.
+* `/containertrust [player]` – Adds access to chests, furnaces, hoppers, crops, and animals, plus everything accessor trust grants.
+* `/trust [player]` – Grants full build/edit access (break and place blocks), plus everything container trust grants. This is the standard "trust a friend" command.
+* `/permissiontrust [player]` – Grants management access, including the ability to change claim permissions and settings, plus everything builder trust grants.
 
-* `/trust [player]` – Grants a player permission to build and interact in your claim.
-* `/untrust [player]` – Revokes permissions for a specific player.
+To trust everyone (not just one player), use `public` instead of a player name, e.g. `/trust public`.
+
+**Removing Access:**
+
+* `/untrust [player]` – Revokes all trust levels for a specific player.
 * `/untrust all` – Removes all trusted players from the claim.
-* `/trustlist` – Displays a list of players trusted in your claim.
-
-**Advanced Trust System:**
-While standing in your claim, you can use:
-`/gd trust player <player_name> <type>`
-
-**Trust Types:**
-
-* public – Trusts everyone to access your claim.
-* accessor – Allows a player to use doors, buttons, and switches.
-* container – Grants access to chests, furnaces, and hoppers.
-* builder – Grants full build access.
+* `/trustlist` – Displays a list of players trusted in your claim and their trust level.
 
 **Example:**
-To grant player shadowolfyt build permissions:
-`/gd trust player shadowolfyt builder`
+To grant player shadowolfyt full build permissions:
+`/trust shadowolfyt`
 
 ---
 
@@ -96,7 +91,7 @@ To buy 100 extra claim blocks: `/buyclaimblocks 100`
 ### Tips for Effective Land Management
 
 * Claim early to secure your land before building too much.
-* Use `/claim` or `/claimslist` to check your available claim blocks.
+* Use `/claimblocks` to check your available claim blocks, or `/claimlist` to see all your claims.
 * Only trust players you know and remove access with `/untrust` if needed.
 * Leave a buffer between your claim and others for paths and expansion.
 * Regularly review permissions using `/trustlist`.
