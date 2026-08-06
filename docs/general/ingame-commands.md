@@ -15,6 +15,8 @@ sidebar_position: 3
 | /reply \<message\>                              | Reply to the user who last sent you a message.                                                                           |
 | /report \<username\> \<reason\>                 | Report a player you believe is breaking the rules.                                                                       |
 | /ping                                           | Test your connection speed to the server.                                                                                |
+| /verify                                         | Request a 6-digit code to link your website account. Works anywhere on the network; if you can't join the network (e.g. banned), use the separate verification server instead. |
+| /verify \<code\>                                | Submit your 6-digit code to complete account linking.                                                                    |
 
 # Survival Commands 
 
