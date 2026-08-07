@@ -15,6 +15,14 @@ Moreover, our commitment to creating a safe and secure gaming environment reflec
 
 Inclusivity and fairness, as outlined in James 2:1-4, further guide our policy, ensuring that all players are treated equally and contributing to a positive and upright gaming community. Through these principles, our Christian Minecraft server strives to foster an environment that honors both the letter of the law and the spirit of Christian teachings.
 
+# I'm on Xbox/Bedrock and can't see or send chat messages, what's wrong?
+If you're playing on Xbox and chat isn't working in-game, this is almost always caused by your Xbox Live privacy settings rather than an issue with our server. Try the following:
+
+1. **Enable online chat** - Go to your Xbox Privacy settings and make sure "You can communicate outside of Xbox Live with voice & text" is enabled.
+2. **Show chat** - Go to Options → Chat Settings → Chat and set it to "Shown". If this is set to "Hidden" or "Commands Only", you won't see any chat messages from other players.
+
+If you've verified both of these settings and are still having trouble, reach out to a Staff Member in our Discord server for further assistance.
+
 # Why is the Nether not disabled, isn't it just Hell?
 Our server upholds the inclusion of the Nether, recognizing its significance in fostering creativity, challenges, and community interaction within the game. Drawing inspiration from biblical principles of stewardship and dominion over resources, we believe that the Nether contributes to the diverse and imaginative aspects of Minecraft gameplay. 
 
