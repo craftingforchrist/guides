@@ -2,7 +2,13 @@
 sidebar_position: 5
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Land Claims & Protection
+
+<Persona who="ned">
+  Someone lives next door. Build like you know it.
+</Persona>
 
 **Overview:**
 Protecting your builds is one of the most important parts of playing on the server. Our land claim system ensures that no one can break, place, or steal in your area without your permission — keeping your creations safe from griefing.

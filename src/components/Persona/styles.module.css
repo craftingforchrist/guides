@@ -1,0 +1,55 @@
+.persona {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 0 0 var(--ifm-leading) 0;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid var(--ifm-color-primary);
+  border-radius: var(--ifm-global-radius);
+  background: var(--ifm-color-emphasis-100);
+}
+
+.portrait {
+  flex: none;
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  image-rendering: pixelated;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  min-width: 0;
+}
+
+.name {
+  font-weight: var(--ifm-font-weight-bold);
+}
+
+.value {
+  font-weight: var(--ifm-font-weight-normal);
+  color: var(--ifm-color-emphasis-700);
+}
+
+.line {
+  font-style: italic;
+  font-size: 1.05rem;
+}
+
+.link {
+  font-size: 0.9rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem;
+  margin-bottom: var(--ifm-leading);
+}
+
+.grid .persona {
+  margin: 0;
+  height: 100%;
+}

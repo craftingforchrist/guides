@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Creative
 
 ✏️✨ Build Freely. Dream Big. Let’s Get Creative! ✨✏️
@@ -32,6 +34,14 @@ Everyone gets their own protected plot of land to build on. Want to team up with
 
 ### 🕊️ Chill Vibes & Uplifting Atmosphere
 No pressure. No rush. Just peaceful building, encouraging words, and a like-minded community that celebrates creativity and kindness.
+
+### 🎮 Playing Fair
+
+<Persona who="finn">
+  A shortcut just means you skipped the fun bit.
+</Persona>
+
+Cheat clients, mods that give you an unfair advantage, using exploits or bugs, and deliberately lagging the server aren't allowed. Found a bug or exploit? Report it instead of using it. See [I found a bug!](../../general/found-bug.md) and the [Rules](https://craftingforchrist.net/rules).
 
 ### 🙌 A Faith-Filled Creative Space
 This server, like the rest of our network, is rooted in faith, fellowship, and respect. Build something beautiful — not just in blocks, but in how we treat each other.

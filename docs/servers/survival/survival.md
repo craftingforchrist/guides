@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Survival
 
 Combining the classic Minecraft feel with Quality of Life (QoL) enhancements that improve gameplay — all while staying true to the core mechanics of the game. Our community also values faith, fellowship, and friendship, creating a place where everyone is welcome to grow, build, and thrive together.
@@ -34,6 +36,14 @@ Discover new crafting recipes that add value to overlooked items and introduce f
 ### 🚪 Community Warps  
 Explore creative builds, visit towns, or access shared spaces with community warps at Spawn.  
 Stay connected and build fellowship with fellow players.
+
+## 🎮 Playing Fair
+
+<Persona who="finn">
+  Everyone starts with the same blocks. Earn yours.
+</Persona>
+
+Cheat clients, mods that give you an unfair advantage, using exploits or bugs, and deliberately lagging the server aren't allowed. Found a bug or exploit? Report it instead of using it. See [I found a bug!](../../general/found-bug.md) and the [Rules](https://craftingforchrist.net/rules).
 
 ## 🙌 A Faith-Filled Fellowship
 

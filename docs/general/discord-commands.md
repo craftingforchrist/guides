@@ -17,7 +17,7 @@ These slash commands are available to everyone in our Discord server.
 | /poll \<question\> | Create a poll for others to vote on. |
 | /profile [username \| discord_user] | View your profile, or another player's, showing their linked account info. |
 | /ranks | Display a link to view rank perks and donate. |
-| /shopdirectory material:\<item\> [type:buying\|selling] | Search player chest shops by item. See the [Shop Directory](../servers/survival/shops/shop-directory.md) page for details. |
+| /shopdirectory material:\<item\> [type:buying\|selling] | Search player chest shops by item. See the [Shop Directory](../servers/survival/shops.md#finding-shops-the-shop-directory) page for details. |
 | /support create | Open a new support ticket. |
 | /support submit | Submit a support ticket. |
 
