@@ -123,3 +123,11 @@
     transform: translateX(4px);
   }
 }
+
+/* Printing doesn't scroll, so cards still waiting to reveal would print blank. */
+@media print {
+  .persona[data-reveal] {
+    opacity: 1;
+    animation: none;
+  }
+}
