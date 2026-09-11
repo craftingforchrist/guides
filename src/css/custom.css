@@ -28,3 +28,154 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* ------------------------------------------------------------------
+ * Transitions & animations
+ * Kept subtle for a docs site. Everything below is skipped for anyone
+ * whose device asks for reduced motion.
+ * ------------------------------------------------------------------ */
+:root {
+  --cfc-ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --cfc-fast: 150ms;
+  --cfc-medium: 300ms;
+  --cfc-slow: 500ms;
+}
+
+@keyframes cfc-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes cfc-fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Briefly highlights a heading you jumped to from a link. */
+@keyframes cfc-target-flash {
+  0%,
+  30% {
+    background-color: color-mix(in srgb, var(--ifm-color-primary) 22%, transparent);
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Page content eases in on every page change. */
+  .theme-doc-markdown {
+    animation: cfc-fade-up var(--cfc-slow) var(--cfc-ease) backwards;
+  }
+
+  .theme-doc-toc-desktop,
+  .pagination-nav,
+  .theme-doc-footer {
+    animation: cfc-fade-in var(--cfc-slow) var(--cfc-ease) 150ms backwards;
+  }
+
+  /* Headings reached through an anchor link. */
+  .theme-doc-markdown :is(h2, h3, h4):target {
+    border-radius: var(--ifm-global-radius);
+    animation: cfc-target-flash 1.6s ease-out;
+  }
+
+  /* Navbar links: an underline grows in on hover. */
+  .navbar__link {
+    position: relative;
+  }
+
+  .navbar__link::after {
+    content: '';
+    position: absolute;
+    left: var(--ifm-navbar-item-padding-horizontal);
+    right: var(--ifm-navbar-item-padding-horizontal);
+    bottom: 0.2rem;
+    height: 2px;
+    background: var(--ifm-color-primary);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform var(--cfc-medium) var(--cfc-ease);
+  }
+
+  .navbar__link:hover::after,
+  .navbar__link--active::after {
+    transform: scaleX(1);
+  }
+
+  /* Sidebar links nudge across on hover. */
+  .menu__link {
+    transition:
+      background-color var(--cfc-fast) ease,
+      color var(--cfc-fast) ease,
+      padding-left var(--cfc-medium) var(--cfc-ease);
+  }
+
+  .menu__link:not(.menu__link--sublist):hover {
+    padding-left: calc(var(--ifm-menu-link-padding-horizontal) + 0.25rem);
+  }
+
+  /* Table of contents links. */
+  .table-of-contents__link {
+    transition: color var(--cfc-fast) ease;
+  }
+
+  /* Previous / Next buttons lift on hover. */
+  .pagination-nav__link {
+    transition:
+      transform var(--cfc-medium) var(--cfc-ease),
+      box-shadow var(--cfc-medium) var(--cfc-ease),
+      border-color var(--cfc-fast) ease;
+  }
+
+  .pagination-nav__link:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--ifm-global-shadow-md);
+  }
+
+  /* Category cards on generated index pages. */
+  .card {
+    transition:
+      transform var(--cfc-medium) var(--cfc-ease),
+      box-shadow var(--cfc-medium) var(--cfc-ease);
+  }
+
+  a.card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--ifm-global-shadow-md);
+  }
+
+  /* Links in page content fade their colour. */
+  .theme-doc-markdown a {
+    transition: color var(--cfc-fast) ease;
+  }
+
+  /* Table rows highlight as you move along them. */
+  .theme-doc-markdown tbody tr {
+    transition: background-color var(--cfc-fast) ease;
+  }
+
+  .theme-doc-markdown tbody tr:hover {
+    background-color: var(--ifm-color-emphasis-100);
+  }
+
+  /* Screenshots fade in rather than popping in as they load. */
+  .theme-doc-markdown p > img,
+  .theme-doc-markdown li img {
+    animation: cfc-fade-in var(--cfc-slow) ease backwards;
+  }
+}
