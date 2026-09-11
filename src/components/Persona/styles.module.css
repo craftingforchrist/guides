@@ -38,6 +38,12 @@
   font-size: 1.05rem;
 }
 
+/* MDX wraps multi-line children in a <p>; keep the quote marks on the same line. */
+.line > p {
+  display: inline;
+  margin: 0;
+}
+
 .link {
   font-size: 0.9rem;
 }
@@ -79,8 +85,15 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .persona {
+  .persona[data-reveal='pending'] {
+    opacity: 0;
+  }
+
+  .persona[data-reveal='shown'] {
     animation: enter 500ms cubic-bezier(0.22, 1, 0.36, 1) backwards;
+  }
+
+  .persona {
     transition:
       transform 300ms cubic-bezier(0.22, 1, 0.36, 1),
       box-shadow 300ms cubic-bezier(0.22, 1, 0.36, 1);
