@@ -1,8 +1,14 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Death & Graves
+
+<Persona who="theo">
+  Dying shouldn't cost you everything you worked for.
+</Persona>
 
 Death is a natural part of survival gameplay, but losing your hard-earned items doesn’t have to be permanent. Our server uses a **grave system** to keep your belongings safe and give you a chance to recover them after death. This guide will walk you through how graves work, how to retrieve your items, and tips to make recovery easier.
 

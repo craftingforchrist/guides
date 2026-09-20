@@ -2,7 +2,13 @@
 sidebar_position: 8
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Frequently Asked Questions
+
+<Persona who="mabel">
+  We'd rather give you the real answer than an easy one.
+</Persona>
 
 # Why don't you support Cracked Minecraft Accounts?
 Our server refuses to accept and support connections from cracked Minecraft accounts, grounded in both legal and biblical principles. 

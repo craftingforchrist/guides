@@ -2,7 +2,13 @@
 sidebar_position: 3
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Safety Tools
+
+<Persona who="mabel">
+  Telling someone isn't tattling. It's the right thing.
+</Persona>
 
 ## Reporting Players: Using /report
 To ensure a safe and positive experience on the Crafting For Christ server, we provide multiple ways for players to report inappropriate behavior. You can report players directly in-game, on Discord, or via our website. Here’s how to use each reporting method:

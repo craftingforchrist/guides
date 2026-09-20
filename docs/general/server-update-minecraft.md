@@ -2,7 +2,13 @@
 sidebar_position: 7
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Why Doesn't the Server Update Immediately After a Minecraft Update?
+
+<Persona who="ned">
+  We move up when everyone can come with us.
+</Persona>
 
 ## Overview  
 When Mojang releases a new Minecraft update as drops every 6 months or so, we as the community are often excited to try the new features right away. However, you may notice that our server **doesn’t update instantly**. This is intentional — we wait to update in order to keep the experience smooth, stable, and available to everyone.  

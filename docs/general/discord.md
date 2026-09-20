@@ -2,7 +2,13 @@
 sidebar_position: 2
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Joining Our Discord
+
+<Persona who="theo">
+  A chat full of people is still a room.
+</Persona>
 
 The Crafting for Christ Discord server is the hub of our community outside the game. Whether you’re looking to chat with friends, get help, or stay up to date with server events, our Discord is the place to be.
 

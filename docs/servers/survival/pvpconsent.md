@@ -2,9 +2,15 @@
 sidebar_position: 6
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # PVP Consent System
 
-To promote a respectful and safe experience, we're intoducing a system that allows players to **opt in or out of Player vs Player (PVP)** combat. This feature is designed to prevent unconsented or surprise attacks and ensure that all PVP interactions are mutually agreed upon.
+<Persona who="theo">
+  Nobody should have to fight when they didn't agree to.
+</Persona>
+
+To promote a respectful and safe experience, you can **opt in or out of Player vs Player (PVP)** combat. This feature is designed to prevent unconsented or surprise attacks and ensure that all PVP interactions are mutually agreed upon.
 
 This page explains how the system works and how you can control your own PVP settings.
 

@@ -3,7 +3,13 @@ sidebar_position: 1
 slug: /
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Welcome to Crafting For Christ
+
+<Persona who="ned">
+  You're joining a world other people already call home.
+</Persona>
 
 Crafting For Christ is more than just a Minecraft network — it’s a **safe, family-friendly, faith-based community** where players of all ages can play, build, and grow together.
 

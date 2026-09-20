@@ -1,8 +1,14 @@
 ---
-sidebar_position: 10
+sidebar_position: 11
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Frequently Asked Questions
+
+<Persona who="ned">
+  No TPA means you actually run into each other.
+</Persona>
 
 # Why doesn't the Server have TPA, why won't it be enabled?
 Our goal has always been for more community focus on things like our warps via Spawn and our Nether highway. 

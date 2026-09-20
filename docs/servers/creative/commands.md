@@ -2,7 +2,13 @@
 sidebar_position: 2
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # 📘 Command Reference
+
+<Persona who="ned">
+  Half of these decide who else can build here.
+</Persona>
 
 Use these commands to manage, customize, and collaborate on your plot in the Creative Server!
 

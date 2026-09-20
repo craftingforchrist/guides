@@ -1,8 +1,14 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Getting Started in Survival
+
+<Persona who="ned">
+  You're stepping into a world other people already live in.
+</Persona>
 
 Survival is the most popular server on our Network, a world where players gather resources, build impressive bases, explore far and wide, and work together to create thriving communities. Whether you are completely new to Minecraft or a seasoned builder, this guide will help you take your first steps confidently.
 

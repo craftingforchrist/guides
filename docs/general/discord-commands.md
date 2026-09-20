@@ -2,7 +2,13 @@
 sidebar_position: 4
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Discord Command Index
+
+<Persona who="theo">
+  Everything you type here lands in front of real people.
+</Persona>
 
 These slash commands are available to everyone in our Discord server.
 

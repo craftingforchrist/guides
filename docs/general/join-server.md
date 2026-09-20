@@ -2,7 +2,13 @@
 sidebar_position: 1
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # How Can I Join the Server?
+
+<Persona who="ned">
+  There's a seat here for you. Come and take it.
+</Persona>
 
 To join our Java or Bedrock server, follow these simple steps to get started on your Minecraft adventure.
 

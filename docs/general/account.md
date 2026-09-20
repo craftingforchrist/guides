@@ -2,7 +2,13 @@
 sidebar_position: 2
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # How to Create and Link Your Account
+
+<Persona who="mabel">
+  One account, one you. That's how we keep things straight.
+</Persona>
 
 ## Overview
 

@@ -2,7 +2,13 @@
 sidebar_position: 4
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # How We Choose Our Staff
+
+<Persona who="theo">
+  You deserve to know who's looking after you.
+</Persona>
 
 Every member of our staff team goes through the same process before they can moderate anyone, and the most serious powers are only given to staff who have been vetted twice.
 

@@ -2,7 +2,13 @@
 sidebar_position: 6
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # I found a bug! How should I report it?
+
+<Persona who="mabel">
+  Telling us about it beats quietly using it.
+</Persona>
 
 In the realm of software, bugs can be categorized into two types: those of minor consequence and those with the potential to cause significant harm if made public or exploited by malicious actors.
 

@@ -1,8 +1,15 @@
 ---
-sidebar_position: 6
+sidebar_position: 10
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # How to Disable Villager AI
+
+<Persona who="ned">
+  Every ticking villager costs the server everyone's playing on.
+</Persona>
+
 Disabling your villagers' AI can reduce their impact on server performance. This will stop the villagers from moving, getting frightened, sleeping, or changing workstations. You can still trade with these villagers, they will still automatically restock twice a day, and still unlock trades if they are not at Master Level. 
 
 :::warning

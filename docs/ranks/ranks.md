@@ -3,7 +3,13 @@ sidebar_position: 1
 slug: /ranks
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Supporting the Server
+
+<Persona who="ned">
+  The server stays free because people quietly chip in.
+</Persona>
 
 Crafting For Christ is more than just a Minecraft server — it’s a vibrant, faith-centered community built by players, for players. Keeping the server online, safe, and enjoyable for everyone requires ongoing support from our community members. Your contributions, whether big or small, make a tangible difference in ensuring that everyone can enjoy a high-quality, free-to-play experience.
 

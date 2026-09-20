@@ -1,8 +1,14 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Homes & Teleportation
+
+<Persona who="ned">
+  Set a home near your friends. Worlds are better shared.
+</Persona>
 
 Homes allow you to save your favorite locations and return to them quickly — perfect for base locations, farms, mines, and special builds. Mastering the home system will make your survival experience far smoother.
 

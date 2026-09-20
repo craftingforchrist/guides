@@ -2,7 +2,13 @@
 sidebar_position: 2
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Server Restarts & Maintenance
+
+<Persona who="ned">
+  A restart is us looking after the world you share.
+</Persona>
 
 Server restarts and maintenance are essential practices that keep **Crafting for Christ** stable, secure, and enjoyable for everyone. While they may occasionally interrupt gameplay, they protect your progress, improve performance, and allow us to roll out updates safely.
 

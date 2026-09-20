@@ -2,7 +2,13 @@
 sidebar_position: 2
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Community Life
+
+<Persona who="theo">
+  How you treat people is what everyone remembers.
+</Persona>
 
 Maintaining a safe, welcoming, and enjoyable community is a top priority for Crafting for Christ. Our rules and guidelines are designed not just to prevent conflict, but to foster an environment where everyone can enjoy the game, collaborate, and grow together.
 

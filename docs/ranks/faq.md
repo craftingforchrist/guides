@@ -2,7 +2,13 @@
 sidebar_position: 1
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Frequently Asked Questions
+
+<Persona who="mabel">
+  You should know exactly where your money goes.
+</Persona>
 
 # Where does my money go?
 Funds given to Crafting For Christ are primarily used for covering the expenses associated with server maintenance and operation. These costs include server upkeep, as well as potential expenditures for social media advertising, giveaways, and, in the future, developers who contribute to the server's functionality.

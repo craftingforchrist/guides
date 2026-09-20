@@ -1,7 +1,14 @@
 ---
 sidebar_position: 3
 ---
+
+import Persona from '@site/src/components/Persona';
+
 # Command Index
+
+<Persona who="mabel">
+  Some of these exist for when you need to speak up.
+</Persona>
 
 # Server-Wide Commands
 | Command                                         | Description                                                                                                              |

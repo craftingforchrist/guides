@@ -2,7 +2,14 @@
 sidebar_position: 4
 ---
 
+import Persona from '@site/src/components/Persona';
+
 # Who should I turn to for help?
+
+<Persona who="theo">
+  Asking for help has never annoyed anyone here.
+</Persona>
+
 We value communication and are here to assist you in any way we can. Whether you require assistance, have suggestions for improvement, or simply need someone to talk to, our Staff Team is here for you. Here's how you can reach out to us:
 
 # 1. In-Game Support
