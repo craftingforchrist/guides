@@ -62,6 +62,11 @@ const config = {
             position: "left",
           },
           {
+            href: "https://craftingforchrist.net/rules",
+            label: "Rules",
+            position: "left",
+          },
+          {
             href: "https://github.com/craftingforchrist",
             label: "GitHub",
             position: "right",
