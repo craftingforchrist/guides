@@ -48,6 +48,40 @@ To ensure a positive experience for all players, we ask that everyone follows th
 * Attempt to resolve disagreements directly and politely with other players.
 * If a resolution cannot be reached, contact a staff member for assistance. Staff are trained to mediate disputes and ensure fairness.
 
+## A Few Network-Wide Rules
+
+These apply everywhere Crafting for Christ operates — the Minecraft servers, this website and our Discord.
+
+### Chat in English
+
+All chat needs to be in English. It isn't about preferring one language over another; it's so our Staff can actually moderate what's being said and step in when something goes wrong. A conversation nobody on the team can read is a conversation nobody can keep safe.
+
+### Be Yourself
+
+Don't impersonate other players or Staff Members. If you think someone is impersonating you, tell a Staff Member rather than confronting them.
+
+### Keep Your Name and Skin Suitable
+
+Your username, skin, avatar and profile picture are seen by everyone, including our youngest players. They need to be appropriate for all ages, and so does anything else on your profile, like your status.
+
+:::info This one is handled differently
+
+An inappropriate username or skin results in a ban that lasts until you've changed it. It isn't meant as a punishment — the ban lifts as soon as the problem is fixed.
+
+:::
+
+### Don't Advertise
+
+Posting links to other servers, or Discord invites unrelated to Crafting for Christ, isn't allowed.
+
+Sharing an online church or a pastoral care service is usually fine. If you're not sure whether something counts as advertising, ask a Staff Member before you post it — nobody minds being asked.
+
+### Rules Change
+
+Our rules are updated as the Network changes, and they can change without notice. Keeping up with them is your responsibility, so it's worth checking the [Rules Page](https://craftingforchrist.net/rules) now and then.
+
+There's a one week grace period whenever a rule changes, so you won't be caught out by something that appeared yesterday.
+
 ## Additional Guidelines
 
 * **Follow Staff Instructions:** Staff are here to help enforce rules and maintain community safety. Please follow their guidance promptly.

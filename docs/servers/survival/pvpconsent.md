@@ -52,6 +52,18 @@ Combat can only occur if both players have PVP enabled.
 
 If an attempted attack is blocked, both players will receive a notification explaining why no damage was dealt.
 
+## Draw Your Weapon First
+
+The `/pvp` system decides whether damage can happen at all. On top of that, our rules ask for one more thing: no PVP unless weapons are drawn by all parties.
+
+In practice that means opting in isn't an invitation on its own. Someone with PVP enabled while they're farming or building hasn't agreed to a fight — they've just left the option open. Give them a moment to draw a weapon, and if they don't, leave them be.
+
+:::info Why both
+
+The plugin protects people who want no part in PVP at all. The weapons-drawn rule protects the people who do, from being jumped while they're mid-build. One is enforced by the server, the other by you.
+
+:::
+
 ## Cooldown Period
 
 To prevent abuse, toggling your PVP status is subject to a cooldown.

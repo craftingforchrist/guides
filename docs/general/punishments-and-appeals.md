@@ -48,6 +48,8 @@ Some things sit at the serious end almost regardless of context — hate speech,
 
 If you've been griefed, Staff can usually inspect what happened and roll the damage back. Report it rather than repairing it yourself — rebuilding over the top makes the logs harder to read.
 
+A prank between friends isn't griefing, and we don't treat it as one. Rearranging someone's chest room when you know they'll laugh is fine. What matters is whether the person on the receiving end is in on it — if you have to guess, ask them first.
+
 The rollback and the punishment are separate. Getting your base restored doesn't mean nothing happened to the person responsible; we just don't discuss the details with you.
 
 ### Ban Evasion
@@ -60,9 +62,10 @@ If your ban felt unfair, appeal it. That door is genuinely open, and it's a far 
 
 You can appeal any punishment.
 
-1. Open a ticket on our [Discord](https://craftingforchrist.net/discord) with `/support create`, or email support@craftingforchrist.net if you can't access Discord.
-2. Tell us your in-game name, roughly when it happened, and what you'd like us to look at again.
-3. Include anything relevant — screenshots, context, or simply your side of it.
+1. Go to [craftingforchrist.net/appeal](https://craftingforchrist.net/appeal). That's the quickest route, and it goes straight to the right people.
+2. If you can't reach the appeal form, open a ticket on our [Discord](https://craftingforchrist.net/discord) with `/support create`, or email support@craftingforchrist.net.
+3. Tell us your in-game name, roughly when it happened, and what you'd like us to look at again.
+4. Include anything relevant — screenshots, context, or simply your side of it.
 
 **What helps:**
 

@@ -72,6 +72,26 @@ To grant player shadowolfyt full build permissions:
 
 **Important:** Abandoning a claim will remove all protections, and the land becomes available for others to claim.
 
+### Claims Expire After 90 Days
+
+If you don't log in for 90 days, your claim expires and the land becomes available for others to claim.
+
+This isn't a punishment. It's how we stop the world filling up with abandoned bases nobody can build near. Logging in occasionally is enough to keep everything you own.
+
+:::warning Coming back after a long break
+
+If you're going to be away for more than three months and you don't want to lose a build, open a ticket on our [Discord](https://craftingforchrist.net/discord) before you go and let us know.
+
+:::
+
+### Mark What's Yours, and Ask Before You Build
+
+Two habits prevent most land disputes on Survival.
+
+Mark the ownership of your base, farm or build clearly, with a sign or something equally obvious. A claim protects your blocks, but it doesn't tell the person standing outside it who they'd need to ask.
+
+If you're planning something near someone else's base, contact them first. They may have plans for that area you can't see yet. Marking out your own planned build before you start saves the same argument in reverse.
+
 ### Additional Features
 
 * `/claimexplosions` – Toggles whether explosions are allowed in your claim.

@@ -54,6 +54,54 @@ You’ll receive an instant invite link that you can click to join the server.
 
 Visit our website [here](https://craftingforchrist.net/) and click the **Join Discord** button. This will redirect you to our invite link, making it easy to join even if you’re not in the game.
 
+## Discord Rules
+
+Our [Network Rules](https://craftingforchrist.net/rules) apply on Discord exactly as they do in game. These are the extra ones that only make sense here.
+
+:::warning You must be at least 13 to use Discord
+
+This is Discord's own minimum age, not ours, and we can't make exceptions to it. Any account we find belonging to someone under 13 will be removed from the server.
+
+Using Discord under 13 breaks Discord's Terms of Service even with a parent's permission, and Discord may suspend the account themselves. If you're not old enough yet, you can still play on the Minecraft server and reach us by email at support@craftingforchrist.net.
+
+:::
+
+### Your Name Should Be Recognisable
+
+Set your Discord username to your Minecraft name, or to a nickname the community already knows you by. It's how Staff and other players work out who they're talking to.
+
+### Keep Channels On-Topic
+
+Each channel is there for a reason, and people mute the ones they don't need. Keep conversations where they belong, and put anything low-key or unrelated in #off-topic.
+
+### Links, Images and Videos
+
+Nothing inappropriate, in any channel. That includes links that lead somewhere inappropriate, not just the content itself.
+
+Advertising other servers or posting unrelated Discord invites isn't allowed either. Sharing an online church or pastoral care service is usually fine — ask a Staff Member first if you're not sure.
+
+### Voice Channels
+
+Voice is the easiest place to make someone's evening worse without meaning to, so:
+
+* No mic spamming.
+* No playing music or videos unless everyone in the channel is happy with it.
+* Nothing inappropriate, including audio and music.
+* If someone asks you to stop doing something, stop.
+* Harassing, insulting, provoking, upsetting or threatening people is never acceptable, in voice or anywhere else.
+
+:::info Voice channels aren't recorded
+
+Staff can't go back and check what was said in voice the way they can with chat logs. If something happens in a voice channel that makes you uncomfortable, leave straight away and report it — see [Safety Tools](/safeserver/safety-tools).
+
+:::
+
+### Disagreeing Well
+
+You'll meet people here who believe different things to you. You don't have to agree with them, but you do have to treat them with respect.
+
+Disrespectful or hurtful comments are punished the same way they would be in game.
+
 ## Tips for a Positive Discord Experience
 
 * **Follow the rules:** Be respectful, kind, and considerate to others.

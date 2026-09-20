@@ -24,6 +24,15 @@ When you first join, you’ll spawn in the central hub area, where you can find 
 
 Follow the clearly marked paths out of spawn or use the banners to safely warp you away from spawn. These lead you safely away from protected areas so you can begin your adventure.
 
+### Where You Can't Build
+
+Two areas are off limits before you start looking:
+
+* The spawn chunks are out of bounds for bases.
+* No bases directly outside the spawn area either. Community builds there are fine, personal ones aren't.
+
+Head out far enough that you're not boxing in the people arriving after you. The cardinal direction warps at spawn exist to get you clear of the crowded ring quickly.
+
 ### 2. Find a Good Area to Build
 
 Look for a spot that’s:

@@ -126,6 +126,40 @@ Results appear as a paginated embed, up to 8 shops per page, with the same selle
 
 The directory pulls live data directly from shops set up in-game. There is no separate in-game command for it.
 
+### Shopping District Rules
+
+The Shopping District only works if it stays a shopping district. These are the rules that keep it worth walking through.
+
+#### Pick a theme and stick to it
+
+Your shop should sell one type of item, or offer one kind of service, and be built around that. Variety shops that sell a bit of everything aren't allowed. They make the district impossible to navigate, and they undercut the people who specialise.
+
+#### Only shops go in the district
+
+No bases, no farms, no general builds. If you want somewhere to live, build it outside. Shops built outside the district may be removed too, so keep yours inside.
+
+#### Don't block your neighbours
+
+You can build anywhere in the district that's free. The one thing you can't do is wall off the shops either side of you. People need to be able to reach them.
+
+#### Your signs must be honest
+
+A sign has to reflect what's actually being bought or sold, at the price shown. A shop that misleads people is treated as a scam, not a mistake.
+
+#### Giving things away is fine, free shops aren't
+
+Donation chests, trashcan chests and giveaways are welcome. What isn't allowed is a shop selling items for nothing in any real quantity, because it drags prices out from under everyone else.
+
+#### Restock now and then
+
+If a shop sits mostly sold out for more than 60 days, Staff may remove it to free the space for someone else. Topping it up occasionally is all it takes to keep your spot.
+
+:::info Competition is welcome
+
+Several shops selling the same item is healthy for the economy. Price each other fairly and let players choose.
+
+:::
+
 ### Shopping District Etiquette
 
 * **Respect Shops:** Don't block or grief shops in the Shopping District.
