@@ -84,7 +84,7 @@ Once opened, you will see a list of players who have sent chat messages recently
 ## Staying Safe on Discord
 
 ### Direct Messages Aren't Seen by Staff
-Direct messages (DMs) on Discord are private between the people in them. **Our staff can't see them.** That means if someone makes you uncomfortable in a DM, nobody else will know unless you tell them.
+Direct messages (DMs) on Discord are private between the people in them. Our staff can't see them. That means if someone makes you uncomfortable in a DM, nobody else will know unless you tell them.
 
 If something happens in a DM:
 1. Stop replying.
@@ -109,7 +109,8 @@ If you're in any Discord server where you don't feel safe, you can leave it at a
 * **On mobile:** Tap and hold the server icon (or tap the server name at the top of the channel list), then tap **Leave Server**.
 
 ### Voice Chat
-Voice channels on our Discord are **not recorded**, and staff are not usually listening in. Because of this:
+Voice channels on our Discord are not recorded, and staff are not usually listening in. Because of this:
 
 * Voice is for people who already know each other.
-* If anything happens in a voice channel that makes you uncomfortable, **leave the channel straight away**, then report it with `/report` or a support ticket.
+* If anything happens in a voice channel that makes you uncomfortable, leave the channel straight away, then report it with `/report` or a support ticket.
+

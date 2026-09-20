@@ -34,4 +34,3 @@ For bugs that are less severe and do not present immediate risks, we encourage y
 * **Document the Bug:** If your bug is not already listed, you are welcome to document it in our GitHub Bugs repository. Your contribution helps us improve our services and ensures that issues are addressed promptly.
 
 Your vigilance and collaboration in reporting and documenting bugs are invaluable in maintaining the quality and security of our platform. Thank you for your dedication to making Crafting for Christ a safe and enjoyable environment for all.
-

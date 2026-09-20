@@ -35,7 +35,7 @@ New moderators start with limited permissions:
 * Warn and kick only.
 * Basic building and chat moderation tools.
 
-**A brand-new moderator cannot ban anyone.**
+A brand-new moderator cannot ban anyone.
 
 During the three-week trial, each new moderator is assigned a mentor from the administration team, who checks in with them and gives feedback.
 
@@ -48,7 +48,7 @@ At the end of the trial, they choose one of the following:
 Serious decisions like bans sit with staff who have been vetted twice: once to join, and again at the end of their trial.
 
 ## When the Report Is About Staff
-* **Reports about a staff member** go to administration.
-* **Reports about the owner** go to an advisory group outside the staff team.
+* Reports about a staff member go to administration.
+* Reports about the owner go to an advisory group outside the staff team.
 
 To raise a concern about a staff member, email [support@craftingforchrist.net](mailto:support@craftingforchrist.net) or open a support ticket on our [Discord](https://craftingforchrist.net/discord) with `/support create`.

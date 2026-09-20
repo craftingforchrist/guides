@@ -21,15 +21,15 @@ Everything you need to decide, on one page.
 Staff moderate chat and gameplay both in-game and on Discord. Chat logs are kept server-side so staff can check what was actually said.
 
 When a player uses `/report`, a staff member picks it up:
-* **Griefing** (damaging or stealing from someone's build): staff log in, inspect what the accused player did, roll the damage back if the report holds, and issue a punishment.
-* **Chat offences** (swearing, harassment): staff check the chat logs and issue a punishment accordingly.
+* Griefing (damaging or stealing from someone's build): staff log in, inspect what the accused player did, roll the damage back if the report holds, and issue a punishment.
+* Chat offences (swearing, harassment): staff check the chat logs and issue a punishment accordingly.
 
 Our staff and players live across many time zones, so how quickly a report is picked up depends on who is awake. It's usually within a few hours, and sometimes longer overnight.
 
 `/report` doesn't send an update back to the person who reported. If your child wants to hear back about a report, they can open a support ticket instead.
 
 ### Voice chat
-Voice channels on our Discord are **not recorded**, and staff are not usually listening in. Please treat voice as unsupervised. Voice is for people who already know each other. If something happens in a voice channel, leave the channel and report it.
+Voice channels on our Discord are not recorded, and staff are not usually listening in. Please treat voice as unsupervised. Voice is for people who already know each other. If something happens in a voice channel, leave the channel and report it.
 
 ### How our staff are chosen
 * Every staff member applies and is assessed on their in-game playtime (24 hours minimum), punishment history, recent chat history, reports made against them and by them, and their reputation in the community.
@@ -46,8 +46,6 @@ More detail: [How We Choose Our Staff](./staff-vetting.md).
 * **Support ticket:** open one on our [Discord](https://craftingforchrist.net/discord) with `/support create`.
 
 For more, see [Online Safety Do's and Don'ts](./online-safety.md#for-parents) and [Safety Tools](./safety-tools.md).
-
----
 
 ## The Four Things We Ask of Everyone
 

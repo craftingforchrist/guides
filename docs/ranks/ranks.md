@@ -13,8 +13,6 @@ import Persona from '@site/src/components/Persona';
 
 Crafting For Christ is more than just a Minecraft server — it’s a vibrant, faith-centered community built by players, for players. Keeping the server online, safe, and enjoyable for everyone requires ongoing support from our community members. Your contributions, whether big or small, make a tangible difference in ensuring that everyone can enjoy a high-quality, free-to-play experience.
 
----
-
 ## Why Support the Server?
 
 Running a Minecraft server that is stable, secure, and full of features requires resources. Support from our players directly contributes to:
@@ -24,8 +22,6 @@ Running a Minecraft server that is stable, secure, and full of features requires
 * **Community Events & Activities:** Supporting seasonal events, competitions, and activities that bring the community together.
 
 Supporting the server is more than a payment — it’s an investment in the continued growth and improvement of the community.
-
----
 
 ## How You Can Support
 
@@ -39,8 +35,6 @@ Ranks provide exciting perks and help fund the server at the same time. You can 
 * **Online Store:** Visit our [store page](https://craftingforchrist.net/webstore) to browse and purchase ranks conveniently from any device.
 
 Ranks often include benefits such as cosmetic enhancements, additional homes, and more. Buying a rank is a direct way to support the server while enjoying extra customization and convenience.
-
----
 
 ## Perks of Supporting
 

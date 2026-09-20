@@ -26,4 +26,3 @@ To maintain an open and accessible line of communication, you can reach out to u
 * **Email Support:** For more private matters or if you prefer written communication, you can email us at support@craftingforchrist.net. We welcome your suggestions and are here to assist with any concerns you may have.
 
 Your input and feedback are invaluable to us as we strive to enhance your gaming experience. Crafting for Christ is committed to maintaining an open and supportive community, and our Staff Team is here to ensure that you have the best possible experience while playing on our servers. We look forward to hearing from you!
-

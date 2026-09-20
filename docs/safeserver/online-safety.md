@@ -48,7 +48,7 @@ Most people you meet online are exactly who they say they are. But some people p
 * **Says they're the only one who understands you**, or tries to turn you against your friends or family.
 * **Makes you feel like you'll be in trouble** if you tell anyone about them.
 
-If any of this happens, stop replying. Tell an adult you trust, and report it with `/report` or a support ticket. **You won't be in trouble for telling.**
+If any of this happens, stop replying. Tell an adult you trust, and report it with `/report` or a support ticket. You won't be in trouble for telling.
 
 ## For Parents
 We prioritize the safety of every player, including your children. Below is what you should know, and what to avoid, while your kids enjoy playing with us.

@@ -22,7 +22,7 @@ Hop in with: `/server creative`
 ### Not yet a supporter?
 No worries! You can join anytime with a monthly supporter rank (from just $1/month) or a permanent rank — and unlock a bunch of awesome perks while helping grow a faith-based, family-friendly Minecraft network.
 
-**👉 See Supporter Ranks (https://craftingforchrist.net/ranks)**
+👉 See Supporter Ranks (https://craftingforchrist.net/ranks)
 
 ## 🧱 What Makes It Special?
 

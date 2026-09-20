@@ -15,11 +15,9 @@ Survival has a player-run economy. You earn currency by playing, then spend it a
 
 This guide walks you through everything in one place: how currency works, using a shop, creating and managing your own, removing it, and finding shops with the Shop Directory.
 
----
-
 ### How Currency Works
 
-Our server uses **Diamonds** as currency, on a simple 1-to-1 basis: **1 Diamond = $1**.
+Our server uses Diamonds as currency, on a simple 1-to-1 basis: 1 Diamond = $1.
 
 This is a true survival economy:
 
@@ -42,8 +40,6 @@ Go to spawn and find the Admin Shop, where you can buy Diamonds back using your 
 
 ![Red Currency Tent](./img/currency/red-tent.png)
 
----
-
 ### Using a Shop
 
 :::warning
@@ -53,17 +49,15 @@ When we talk about funds and purchases at Player Chest Shops, this always means 
 :::
 
 1. Check you have enough funds with `/bal`.
-2. Go up to the shop's chest and **left-click the sign**.
+2. Go up to the shop's chest and left-click the sign.
 3. The shop will ask you in chat how many items you want. Type the number.
 4. Your items are traded straight away.
 
 ![Using a shop](./img/shop/using-a-shop.png)
 
----
-
 ### Creating Your Own Shop
 
-1. **Place a chest** where you want your shop.
+1. Place a chest where you want your shop.
 
    ![Place a chest](./img/shop/place-chest.png)
 
@@ -81,8 +75,6 @@ When we talk about funds and purchases at Player Chest Shops, this always means 
 
 4. **Stock your shop.** For a selling shop, put the items you're selling in the chest.
 
----
-
 ### Managing Your Shop
 
 **Shop Settings Menu:**
@@ -93,8 +85,8 @@ Right-click your shop sign to open the Shop Control panel in chat. From here you
 **Shop Modes:**
 Look at your shop sign and use:
 
-* `/qs sell` – **Selling shop.** Other players buy items from you. You earn money.
-* `/qs buy` – **Buying shop.** Other players sell items to you. They're paid from your balance.
+* `/qs sell` – Selling shop. Other players buy items from you. You earn money.
+* `/qs buy` – Buying shop. Other players sell items to you. They're paid from your balance.
 
 ![A buying shop](./img/shop/shop-mode-2.png)
 
@@ -106,8 +98,6 @@ Look at your shop sign and use `/qs price [new price]`.
 **Example:**
 To change your shop's price to $5 each: `/qs price 5`
 
----
-
 ### Removing a Shop
 
 **Commands:**
@@ -117,14 +107,12 @@ To change your shop's price to $5 each: `/qs price 5`
 
 After removing a shop, you can break the chest as normal.
 
----
-
 ### Finding Shops: The Shop Directory
 
 The Shop Directory lets you search every Player Chest Shop on Survival by item, without walking around to find them.
 
 **On the Website:**
-Go to [craftingforchrist.net/shopdirectory](https://craftingforchrist.net/shopdirectory) and search by **Material** (the item being bought or sold, minimum 2 characters).
+Go to [craftingforchrist.net/shopdirectory](https://craftingforchrist.net/shopdirectory) and search by Material (the item being bought or sold, minimum 2 characters).
 
 Each result shows the seller's username, item quantity, price, stock status, and the shop's in-game coordinates so you can go straight to it.
 
@@ -138,15 +126,11 @@ Results appear as a paginated embed, up to 8 shops per page, with the same selle
 
 The directory pulls live data directly from shops set up in-game. There is no separate in-game command for it.
 
----
-
 ### Shopping District Etiquette
 
 * **Respect Shops:** Don't block or grief shops in the Shopping District.
 * **Avoid Price Gouging:** You're free to set your own prices, but reasonable pricing keeps the economy healthy.
 * **Be Honest:** Don't scam other players in direct trades. Scams may be punished by staff.
-
----
 
 ### Troubleshooting & Common Issues
 

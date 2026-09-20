@@ -15,13 +15,9 @@ Protecting your builds is one of the most important parts of playing on the serv
 
 This guide will walk you through everything you need to know about land claims, from basic setup to advanced permissions and effective claim management.
 
----
-
 ### Why Use Land Claims
 
 Land claims prevent griefing by giving you full control over who can build, interact with containers, or modify anything inside your claimed area. If you want to share access with friends, you can do so on your own terms.
-
----
 
 ### Getting Started with Claims
 
@@ -35,8 +31,6 @@ Land claims prevent griefing by giving you full control over who can build, inte
 **Resize or Expand Your Claim:**
 Right-click one of the corners with the golden shovel to move it. Adjust until your claim fully covers your build.
 
----
-
 ### Quick Claim Command
 
 **Command:** `/claim`
@@ -47,8 +41,6 @@ Creates a claim where you are standing. The size depends on your available claim
 1. Stand in the area you want to claim.
 2. Type `/claim` in chat.
 3. The land will be protected using your available claim blocks.
-
----
 
 ### Managing Permissions
 
@@ -71,8 +63,6 @@ To trust everyone (not just one player), use `public` instead of a player name, 
 To grant player shadowolfyt full build permissions:
 `/trust shadowolfyt`
 
----
-
 ### Abandoning Claims
 
 **Commands:**
@@ -82,8 +72,6 @@ To grant player shadowolfyt full build permissions:
 
 **Important:** Abandoning a claim will remove all protections, and the land becomes available for others to claim.
 
----
-
 ### Additional Features
 
 * `/claimexplosions` – Toggles whether explosions are allowed in your claim.
@@ -91,8 +79,6 @@ To grant player shadowolfyt full build permissions:
 
 **Example:**
 To buy 100 extra claim blocks: `/buyclaimblocks 100`
-
----
 
 ### Tips for Effective Land Management
 
@@ -103,8 +89,6 @@ To buy 100 extra claim blocks: `/buyclaimblocks 100`
 * Regularly review permissions using `/trustlist`.
 * Be careful when abandoning claims — protection is removed instantly.
 * Expand your land protection by earning more claim blocks through play or purchasing them.
-
----
 
 ### Troubleshooting & Common Issues
 

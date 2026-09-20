@@ -56,8 +56,8 @@ To join our Server on PlayStation, Xbox, and Nintendo there is an additional ste
 
 :::warning
 
-BedrockTogether is a third-party app and is **not affiliated with or supported by our server**.
-The app is ad-supported, meaning you may see advertisements before connecting. **We do not control these ads**, so please use discernment when viewing them.
+BedrockTogether is a third-party app and is not affiliated with or supported by our server.
+The app is ad-supported, meaning you may see advertisements before connecting. We do not control these ads, so please use discernment when viewing them.
 
 :::
 

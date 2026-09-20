@@ -11,9 +11,9 @@ import Persona from '@site/src/components/Persona';
   You're joining a world other people already call home.
 </Persona>
 
-Crafting For Christ is more than just a Minecraft network — it’s a **safe, family-friendly, faith-based community** where players of all ages can play, build, and grow together.
+Crafting For Christ is more than just a Minecraft network — it’s a safe, family-friendly, faith-based community where players of all ages can play, build, and grow together.
 
-If this is your first time joining, this guide will walk you through **everything you need to know** to get started, find your way around, and begin your adventure.
+If this is your first time joining, this guide will walk you through everything you need to know to get started, find your way around, and begin your adventure.
 
 **Website:** [https://craftingforchrist.net/](https://craftingforchrist.net/)
 
@@ -26,15 +26,13 @@ Follow us on social media for announcements, updates, and events:
 
 **Discord:** [https://craftingforchrist.net/discord](https://craftingforchrist.net/discord)
 
----
-
 ## ✝️ What Makes Crafting For Christ Different
 
 ### 🙌 Christian-Focused Community
 
-* Our community is grounded in Christian values like **kindness, respect, and forgiveness**.
-* Chat is moderated to remain **clean and encouraging**, creating a safe environment for kids, teens, and adults.
-* We host **faith-focused events** and provide a place for prayer requests and fellowship.
+* Our community is grounded in Christian values like kindness, respect, and forgiveness.
+* Chat is moderated to remain clean and encouraging, creating a safe environment for kids, teens, and adults.
+* We host faith-focused events and provide a place for prayer requests and fellowship.
 
 ### 🌎 Multiple Worlds & Experiences
 
@@ -49,8 +47,6 @@ Follow us on social media for announcements, updates, and events:
 * **Anti-Griefing Systems** – Land claims protect your builds.
 * **Supportive Players** – The community is eager to help newcomers get started.
 
----
-
 ## Rules, Terms, and Policies
 
 **Rules:** [https://craftingforchrist.net/rules](https://craftingforchrist.net/rules)
@@ -61,8 +57,6 @@ Follow us on social media for announcements, updates, and events:
 
 **Refund Policy:** [https://craftingforchrist.net/refund](https://craftingforchrist.net/refund)
 
----
-
 ## 🙏 Our Commitment to You
 
 * **Safe, non-toxic environment** for all players.
@@ -70,8 +64,6 @@ Follow us on social media for announcements, updates, and events:
 * **Community support** – our staff and player base are here to help.
 
 Whether you’re building massive structures, farming with friends, or just hanging out, we’re excited to have you in the community.
-
----
 
 ## Contact & Support
 
@@ -81,7 +73,7 @@ Look for Staff Team members in-game (identifiable by the "STAFF" tag) for assist
 
 ### 2. Email
 
-For formal inquiries, suggestions, or feedback, email us at **[support@craftingforchrist.net](mailto:support@craftingforchrist.net)**.
+For formal inquiries, suggestions, or feedback, email us at [support@craftingforchrist.net](mailto:support@craftingforchrist.net).
 
 ### 3. Discord Community
 
@@ -90,8 +82,6 @@ Join our [public Discord server](https://craftingforchrist.net/discord) to conne
 ### 4. Help Us Improve
 
 If you notice errors or areas for clarification in our guides, please inform us via email or in-game through our staff.
-
----
 
 Thank you for being part of Crafting For Christ. We appreciate your engagement and look forward to growing this community together.
 

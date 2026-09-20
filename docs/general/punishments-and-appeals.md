@@ -13,9 +13,7 @@ import Persona from '@site/src/components/Persona';
 **Overview:**
 Most players never need this page. But if you've been punished, or you're worried about what would happen if you slipped up, it's fair enough to want to know how it works.
 
-The short version: **we decide punishments case by case.** There's no fixed list where a particular offence always earns a particular penalty. This page is the long version of what our [Network Rules](https://craftingforchrist.net/rules) say about punishments.
-
----
+The short version: we decide punishments case by case. There's no fixed list where a particular offence always earns a particular penalty. This page is the long version of what our [Network Rules](https://craftingforchrist.net/rules) say about punishments.
 
 ### How We Decide
 
@@ -34,8 +32,6 @@ Possibly — they may have had a different history, or the context may have been
 
 :::
 
----
-
 ### What Punishments Look Like
 
 Depending on severity, an outcome might be:
@@ -48,29 +44,23 @@ Depending on severity, an outcome might be:
 
 Some things sit at the serious end almost regardless of context — hate speech, doxxing, threats, anything that puts a younger player at risk, and attacks on the Network itself.
 
----
-
 ### Griefing and Rollbacks
 
 If you've been griefed, Staff can usually inspect what happened and roll the damage back. Report it rather than repairing it yourself — rebuilding over the top makes the logs harder to read.
 
 The rollback and the punishment are separate. Getting your base restored doesn't mean nothing happened to the person responsible; we just don't discuss the details with you.
 
----
-
 ### Ban Evasion
 
-Coming back on another account while you're banned is treated seriously. It can result in **all your accounts and your IP being banned**, which is much harder to undo than the original punishment.
+Coming back on another account while you're banned is treated seriously. It can result in all your accounts and your IP being banned, which is much harder to undo than the original punishment.
 
 If your ban felt unfair, appeal it. That door is genuinely open, and it's a far better outcome than the alternative.
-
----
 
 ### How to Appeal
 
 You can appeal any punishment.
 
-1. Open a ticket on our [Discord](https://craftingforchrist.net/discord) with `/support create`, or email **support@craftingforchrist.net** if you can't access Discord.
+1. Open a ticket on our [Discord](https://craftingforchrist.net/discord) with `/support create`, or email support@craftingforchrist.net if you can't access Discord.
 2. Tell us your in-game name, roughly when it happened, and what you'd like us to look at again.
 3. Include anything relevant — screenshots, context, or simply your side of it.
 
@@ -86,17 +76,13 @@ You can appeal any punishment.
 * Arguing about it in public chat
 * Coming back on another account while you wait
 
----
-
 ### If You Think a Staff Member Got It Wrong
 
 Staff are people, and people make mistakes. If you believe you've been wrongly punished, or that a Staff Member has misused their position, we want to hear about it.
 
-Email **support@craftingforchrist.net** or open a ticket on our [Discord](https://craftingforchrist.net/discord) with whatever evidence or details you have. It goes to the Senior Staff Team.
+Email support@craftingforchrist.net or open a ticket on our [Discord](https://craftingforchrist.net/discord) with whatever evidence or details you have. It goes to the Senior Staff Team.
 
 Please raise it that way rather than in public chat. It gets a fairer hearing, and it's kinder to everyone involved — including you, if it turns out you were right.
-
----
 
 ### Reporting Someone Else
 

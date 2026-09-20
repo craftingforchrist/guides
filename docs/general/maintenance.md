@@ -10,9 +10,7 @@ import Persona from '@site/src/components/Persona';
   A restart is us looking after the world you share.
 </Persona>
 
-Server restarts and maintenance are essential practices that keep **Crafting for Christ** stable, secure, and enjoyable for everyone. While they may occasionally interrupt gameplay, they protect your progress, improve performance, and allow us to roll out updates safely.
-
----
+Server restarts and maintenance are essential practices that keep Crafting for Christ stable, secure, and enjoyable for everyone. While they may occasionally interrupt gameplay, they protect your progress, improve performance, and allow us to roll out updates safely.
 
 ## Summary
 
@@ -23,25 +21,21 @@ Regular server restarts and maintenance help to:
 * Protect player progress and builds.
 * Ensure the server remains secure and reliable.
 
----
-
 ## Scheduled Restarts
 
 Scheduled restarts are planned in advance and announced clearly in-game and on the server website.
 
 **Key points:**
 
-* A **countdown** appears before each restart to give players time to finish activities.
-* These usually happen during **low-activity hours** to minimize disruption.
-* Scheduled restarts may also coincide with **maintenance periods**.
+* A countdown appears before each restart to give players time to finish activities.
+* These usually happen during low-activity hours to minimize disruption.
+* Scheduled restarts may also coincide with maintenance periods.
 
 **Tips for scheduled restarts:**
 
 * Log out safely or store valuable items in chests.
 * Avoid fighting mobs or performing risky activities.
 * Stand in a safe location to prevent accidental loss of health or resources.
-
----
 
 ## Emergency Restarts
 
@@ -51,18 +45,16 @@ Emergency restarts occur when urgent server issues require immediate attention.
 
 * Rare but necessary to fix critical problems or apply urgent updates.
 * Players are usually notified through in-game announcements or Discord.
-* Your **inventory, location, and builds are safe**, but sudden restarts may interrupt gameplay.
+* Your inventory, location, and builds are safe, but sudden restarts may interrupt gameplay.
 
 **Tips for emergency restarts:**
 
 * Avoid logging out during uncertain periods if possible.
 * Keep items in secure storage to prevent accidental loss in case of unexpected downtime.
 
----
-
 ## Server Maintenance
 
-Maintenance refers to planned or emergency periods where the server may be **offline or limited** for updates, backups, or improvements.
+Maintenance refers to planned or emergency periods where the server may be offline or limited for updates, backups, or improvements.
 
 **What happens during maintenance:**
 
@@ -77,8 +69,6 @@ Maintenance refers to planned or emergency periods where the server may be **off
 * Plan your gameplay around maintenance windows.
 * Ensure valuable items or in-progress builds are safely stored.
 
----
-
 ## Player Safety Recommendations
 
 Even though the server automatically saves player progress:
@@ -87,16 +77,12 @@ Even though the server automatically saves player progress:
 * **Store valuable items**: Chests and personal storage protect your inventory.
 * **Avoid risky tasks**: Mining, fighting mobs, or PvP combat just before restarts or maintenance is not recommended.
 
----
-
 ## Tips for a Smooth Gameplay Experience
 
 1. **Plan ahead:** Finish risky tasks before scheduled restarts or maintenance.
 2. **Stay informed:** Watch in-game announcements, the server website, and Discord for updates.
 3. **Log out safely:** Place items in secure storage if logging out during restart periods.
 4. **Be patient:** Restarts and maintenance may take a few minutes but are crucial for a healthy server.
-
----
 
 ## FAQs
 
@@ -112,6 +98,4 @@ Even though the server automatically saves player progress:
 **Q: How are players notified about restarts or maintenance?**
 **A:** Notifications are sent in-game, via Discord, and on the server website. Scheduled events are always announced ahead of time.
 
----
-
-By understanding **server restarts and maintenance procedures**, you can protect your progress, play safely, and help maintain a smooth, enjoyable server environment for everyone.
+By understanding server restarts and maintenance procedures, you can protect your progress, play safely, and help maintain a smooth, enjoyable server environment for everyone.

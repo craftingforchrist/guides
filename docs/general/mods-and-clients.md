@@ -13,11 +13,9 @@ import Persona from '@site/src/components/Persona';
 **Overview:**
 You're welcome to use client mods on our servers. Most of them make Minecraft look nicer or run better, and we have no problem with that at all.
 
-The line we draw is simple: **a mod is fine if it changes how the game looks or feels, and not fine if it gives you information or abilities the game never meant you to have.**
+The line we draw is simple: a mod is fine if it changes how the game looks or feels, and not fine if it gives you information or abilities the game never meant you to have.
 
 This page explains where that line sits and what to do about a mod that isn't on either list. It's the long version of the mods and clients rule in our [Network Rules](https://craftingforchrist.net/rules).
-
----
 
 ### The Simple Version
 
@@ -27,8 +25,6 @@ Ask yourself one question: *does this mod let me do something the game wouldn't 
 * **Yes** — it's almost certainly not. Seeing ores through stone, hitting faster than a human can click, aiming for you, flying.
 
 If you're not sure, ask before you use it. Nobody has ever been punished for asking.
-
----
 
 ### Explicitly Permitted
 
@@ -52,8 +48,6 @@ Lunar, Badlion, Cosmic and PvPLounge all bundle dozens of small mods together. W
 
 :::
 
----
-
 ### Explicitly Prohibited
 
 * ❌ **X-rays** — including texture packs that make blocks transparent
@@ -63,13 +57,11 @@ Lunar, Badlion, Cosmic and PvPLounge all bundle dozens of small mods together. W
 * ❌ **VPN clients** — unless the Senior Staff Team has granted you an exception
 * ❌ **Mods or tools used to save worlds** (approved map mods are the exception)
 
----
-
 ### Autoclickers, Macros and Scripts
 
 This one catches people out more than any other, so it's worth spelling out.
 
-**One button press should cause one action.** Anything that turns a single input — or no input at all — into repeated actions isn't allowed. That covers:
+One button press should cause one action. Anything that turns a single input — or no input at all — into repeated actions isn't allowed. That covers:
 
 * Autoclickers and auto-hitters, whether they're software or a hardware feature of your mouse
 * Macro keys that fire a sequence of actions
@@ -84,27 +76,21 @@ Automating fishing or crop farming while you're away from the keyboard is the mo
 
 :::
 
----
-
 ### VPNs
 
 VPNs are blocked by default. They're not blocked because we think you're up to something — they're blocked because they're one of the main ways banned players get back in.
 
 If you need one for a genuine reason, such as a school or workplace network that routes everything through a VPN, open a ticket on our [Discord](https://craftingforchrist.net/discord) and the Senior Staff Team can grant an exception for your account.
 
----
-
 ### A Mod That Isn't on Either List
 
 New mods appear all the time, so neither list will ever be complete. If yours isn't mentioned:
 
 1. Run it through the question at the top of this page.
-2. If you're still unsure, **ask before you use it** — open a ticket on our [Discord](https://craftingforchrist.net/discord) or email support@craftingforchrist.net.
+2. If you're still unsure, ask before you use it — open a ticket on our [Discord](https://craftingforchrist.net/discord) or email support@craftingforchrist.net.
 3. Tell us the mod's name and a link to it if you have one. We'll usually come back to you the same day.
 
 Asking first is always treated as good faith. Using something questionable and explaining afterwards is a much harder conversation.
-
----
 
 ### Mixed Server: Extra Restrictions
 
@@ -119,8 +105,6 @@ The Mixed server is competitive, so several mods that are perfectly fine on Surv
 * ❌ ElytraKey
 
 Minimaps are the one to watch — allowed on Survival, not on Mixed.
-
----
 
 ### Found an Exploit Instead of a Mod?
 
