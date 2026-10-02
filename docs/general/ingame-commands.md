@@ -58,6 +58,13 @@ import Persona from '@site/src/components/Persona';
 | /givepet \<username\>                           | Transfer ownership of a pet.                                                                                             |
 | /quest                                          | View the quest menu.                                                                                                     |
 | /graves                                         | Display list of current graves.                                                                                          |
+| /mail create \<name\>                           | Create a mailbox, then left-click a barrel with a stick. Aliases: /minemail, /mm.                                         |
+| /mail send \<username\> [mailbox]               | Send a letter, items or money to a player's mailbox.                                                                      |
+| /mail open \<mailbox\>                          | Open one of your mailboxes from anywhere.                                                                                 |
+| /mail list                                      | List the mailboxes you can read.                                                                                          |
+| /mail directory                                 | Browse every mailbox on the server.                                                                                       |
+| /mail share \<mailbox\> \<username\>            | Let a player view your mailbox.                                                                                           |
+| /mail group                                     | Manage group mailboxes.                                                                                                   |
 
 Check https://guides.craftingforchrist.net/docs/survival for more information on specific commands.
 

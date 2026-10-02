@@ -37,6 +37,10 @@ Discover new crafting recipes that add value to overlooked items and introduce f
 Explore creative builds, visit towns, or access shared spaces with community warps at Spawn.  
 Stay connected and build fellowship with fellow players.
 
+### 📬 MineMail  
+Build a mailbox out of a barrel and send letters, items and money to other players, even when they're offline.  
+Share a mailbox with friends or run one together as a group. See [MineMail](./minemail.md).
+
 ## 🎮 Playing Fair
 
 <Persona who="finn">
