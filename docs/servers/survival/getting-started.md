@@ -64,3 +64,10 @@ To keep our world friendly and welcoming:
 
 * **Respect other players’ builds** — no griefing, stealing, or trespassing.
 * **Keep chat clean and kind** — we want a family-friendly community.
+* **Keep builds appropriate** — no obscene or questionable builds, names or language. What you build is as visible as what you say.
+
+:::tip Not sure a build is okay?
+
+If you want to make something you're unsure about, but you think the context justifies it, check with a Staff Member first. Asking ahead is always treated as good faith.
+
+:::

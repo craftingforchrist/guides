@@ -44,6 +44,12 @@ Depending on severity, an outcome might be:
 
 Some things sit at the serious end almost regardless of context — hate speech, doxxing, threats, anything that puts a younger player at risk, and attacks on the Network itself.
 
+:::note The Senior Staff Team's discretion
+
+Beyond the case-by-case approach above, the Senior Staff Team keeps the right to ban or unban any player from any of our services, for any reason, without notice. It's rarely used and never lightly, but it exists so the team can act quickly when the community's safety calls for it.
+
+:::
+
 ### Griefing and Rollbacks
 
 If you've been griefed, Staff can usually inspect what happened and roll the damage back. Report it rather than repairing it yourself — rebuilding over the top makes the logs harder to read.

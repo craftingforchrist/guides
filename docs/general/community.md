@@ -31,6 +31,8 @@ To ensure a positive experience for all players, we ask that everyone follows th
 * Avoid personal attacks, harassment, or targeting others.
 * Encourage new players and celebrate others’ achievements.
 
+Some things sit beyond the ordinary "be respectful" line and are treated with the utmost seriousness: harassment, threats, bullying, and discrimination aimed at who someone is. Hate speech, bigotry, racism, homophobia and sexism have no place on the Network and are not tolerated.
+
 ### 2. No Griefing
 
 * Respect the creations and claims of other players. Do not destroy, steal from, or tamper with others’ builds without permission.
@@ -41,6 +43,8 @@ To ensure a positive experience for all players, we ask that everyone follows th
 * Maintain a friendly and safe chat environment.
 * Refrain from swearing, inappropriate language, or content that may be offensive to others.
 * Use public chat responsibly, and avoid spamming or flooding the chat.
+
+Spamming means sending several messages in a short space of time, repeating the same message, or sending one or more excessively long messages. If it makes the chat harder for everyone else to use, it counts.
 
 ### 4. Solve Problems Peacefully
 
@@ -75,6 +79,23 @@ An inappropriate username or skin results in a ban that lasts until you've chang
 Posting links to other servers, or Discord invites unrelated to Crafting for Christ, isn't allowed.
 
 Sharing an online church or a pastoral care service is usually fine. If you're not sure whether something counts as advertising, ask a Staff Member before you post it — nobody minds being asked.
+
+### Keep It Clean Everywhere
+
+Don't post links or content that lead to, or contain, NSFW or otherwise inappropriate material. This applies everywhere — in-game chat, this website and Discord — not just one of them. Our youngest players are in all of those spaces.
+
+### No Attacks on the Network or Its Players
+
+A few things cross from breaking a rule into attacking the community itself, and they're treated at the most serious end:
+
+* **DDOS or DOS threats or attacks.** Threatening or attempting to knock the Network or a player offline is never tolerated. On Discord, even a DDOS *threat* is treated as a Terms of Service violation.
+* **Doxxing.** Threatening to share, actually sharing, or cheering on the sharing of someone's private information is not allowed. If someone does this to you, don't engage — tell a Staff Member.
+
+### Be Straight With Staff
+
+Follow directions from Staff promptly. If you think a Staff Member has got something wrong, don't argue it out in chat — raise it the way described in [Punishments & Appeals](./punishments-and-appeals.md).
+
+Don't lie to a Staff Member who's looking into something. Owning up to what happened is always the shorter road, and honesty is weighed in your favour when an outcome is being decided.
 
 ### Rules Change
 
