@@ -63,7 +63,7 @@ If you've moved on from a shop, take it down yourself rather than leaving it emp
 
 ## Abandoned Shops
 
-If a shop stays empty and the owner doesn't respond, Staff may eventually **archive** it — that saves the shop's details and removes it so the spot can be reused. An archived shop can be restored later if you come back, so nothing is lost for good. As always, this only happens by a Staff member's decision, never automatically.
+If a shop stays empty and the owner doesn't respond, Staff may eventually **archive** it — that saves the shop's details and removes it so the spot can be reused.
 
 ## Checking Your Own Shops
 
