@@ -42,6 +42,30 @@ Creates a claim where you are standing. The size depends on your available claim
 2. Type `/claim` in chat.
 3. The land will be protected using your available claim blocks.
 
+### How Claim Blocks Work
+
+Every block of land you claim costs **claim blocks**. You start with a pool of them, earn more just by playing, and can top up with in-game currency if you need to claim faster than you earn.
+
+| Setting | Value |
+| --- | --- |
+| Starting claim blocks (new player) | 5,000 |
+| Earned per hour of playtime | 500 |
+| Maximum you can accrue | 500,000 |
+
+Claim blocks are spent across a claim's horizontal area, so a 5,000-block pool is enough for a reasonably sized starter base. Earning keeps going the whole time you play, up to the 500,000 cap:
+
+| Playtime | Total claim blocks |
+| --- | --- |
+| New player | 5,000 |
+| 1 hour | 5,500 |
+| 10 hours | 10,000 |
+| 24 hours | 17,000 |
+| 100 hours | 55,000 |
+| 500 hours | 255,000 |
+| 990 hours | 500,000 |
+
+Check your balance any time with `/claimblocks`. If you run out, earn more by playing or buy more with `/buyclaimblocks [amount]` (see [Additional Features](#additional-features) below).
+
 ### Managing Permissions
 
 Granting or removing permissions allows you to control who can interact with your land. Our claim plugin (GriefDefender) uses four trust levels, each with its own command:
