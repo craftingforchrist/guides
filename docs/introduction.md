@@ -36,16 +36,16 @@ Follow us on social media for announcements, updates, and events:
 
 ### 🌎 Multiple Worlds & Experiences
 
-* **Survival** – Gather resources, build, explore, and thrive with others.
-* **Creative** – Build freely with unlimited resources (for supporters only).
-* **Mixed** – Participate in seasonal events, minigames, and community challenges.
-* **Events** – Enjoy special events and community challenges when available.
+* **Survival** - Gather resources, build, explore, and thrive with others.
+* **Creative** - Build freely with unlimited resources (for supporters only).
+* **Mixed** - Participate in seasonal events, minigames, and community challenges.
+* **Events** - Enjoy special events and community challenges when available.
 
 ### 🛡 Safe & Family-Friendly
 
-* **Active Moderation** – Our staff team monitors the server to keep it safe.
-* **Anti-Griefing Systems** – Land claims protect your builds.
-* **Supportive Players** – The community is eager to help newcomers get started.
+* **Active Moderation** - Our staff team monitors the server to keep it safe.
+* **Anti-Griefing Systems** - Land claims protect your builds.
+* **Supportive Players** - The community is eager to help newcomers get started.
 
 ## Rules, Terms, and Policies
 
@@ -60,8 +60,8 @@ Follow us on social media for announcements, updates, and events:
 ## 🙏 Our Commitment to You
 
 * **Safe, non-toxic environment** for all players.
-* **Fair gameplay** – no pay-to-win mechanics.
-* **Community support** – our staff and player base are here to help.
+* **Fair gameplay** - no pay-to-win mechanics.
+* **Community support** - our staff and player base are here to help.
 
 Whether you’re building massive structures, farming with friends, or just hanging out, we’re excited to have you in the community.
 

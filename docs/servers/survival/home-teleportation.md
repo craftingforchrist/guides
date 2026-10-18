@@ -20,20 +20,20 @@ A home is a saved location that you can teleport back to at any time. Homes are 
 
 Here are the commands you’ll use most often:
 
-* **`/sethome [name]`** – Saves your current location as a home.
+* **`/sethome [name]`** - Saves your current location as a home.
 
   * Example: `/sethome base`
   * You can give your home a custom name (like `farm`, `mine`, or `village`).
 
-* **`/home [name]`** – Teleports you to the named home.
+* **`/home [name]`** - Teleports you to the named home.
 
   * If you only have one home, you can simply type `/home`.
 
-* **`/home bed`** – Teleports you to the last bed you slept in.
+* **`/home bed`** - Teleports you to the last bed you slept in.
 
   * Perfect if you lose track of your base but still have a bed spawn set.
 
-* **`/delhome [name]`** – Removes a saved home you no longer need.
+* **`/delhome [name]`** - Removes a saved home you no longer need.
 
 ## Multiple Homes
 

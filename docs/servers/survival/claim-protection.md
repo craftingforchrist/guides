@@ -70,18 +70,18 @@ Check your balance any time with `/claimblocks`. If you run out, earn more by pl
 
 Granting or removing permissions allows you to control who can interact with your land. Our claim plugin (GriefDefender) uses four trust levels, each with its own command:
 
-* `/accesstrust [player]` – Lets a player enter your claim and use doors, buttons, levers, and beds.
-* `/containertrust [player]` – Adds access to chests, furnaces, hoppers, crops, and animals, plus everything accessor trust grants.
-* `/trust [player]` – Grants full build/edit access (break and place blocks), plus everything container trust grants. This is the standard "trust a friend" command.
-* `/permissiontrust [player]` – Grants management access, including the ability to change claim permissions and settings, plus everything builder trust grants.
+* `/accesstrust [player]` - Lets a player enter your claim and use doors, buttons, levers, and beds.
+* `/containertrust [player]` - Adds access to chests, furnaces, hoppers, crops, and animals, plus everything accessor trust grants.
+* `/trust [player]` - Grants full build/edit access (break and place blocks), plus everything container trust grants. This is the standard "trust a friend" command.
+* `/permissiontrust [player]` - Grants management access, including the ability to change claim permissions and settings, plus everything builder trust grants.
 
 To trust everyone (not just one player), use `public` instead of a player name, e.g. `/trust public`.
 
 **Removing Access:**
 
-* `/untrust [player]` – Revokes all trust levels for a specific player.
-* `/untrust all` – Removes all trusted players from the claim.
-* `/trustlist` – Displays a list of players trusted in your claim and their trust level.
+* `/untrust [player]` - Revokes all trust levels for a specific player.
+* `/untrust all` - Removes all trusted players from the claim.
+* `/trustlist` - Displays a list of players trusted in your claim and their trust level.
 
 **Example:**
 To grant player shadowolfyt full build permissions:
@@ -91,8 +91,8 @@ To grant player shadowolfyt full build permissions:
 
 **Commands:**
 
-* `/abandonclaim` – Deletes the claim you are standing in.
-* `/abandonallclaims` – Deletes all of your claims.
+* `/abandonclaim` - Deletes the claim you are standing in.
+* `/abandonallclaims` - Deletes all of your claims.
 
 **Important:** Abandoning a claim will remove all protections, and the land becomes available for others to claim.
 
@@ -118,8 +118,8 @@ If you're planning something near someone else's base, contact them first. They 
 
 ### Additional Features
 
-* `/claimexplosions` – Toggles whether explosions are allowed in your claim.
-* `/buyclaimblocks [amount]` – Purchases additional claim blocks using in-game currency.
+* `/claimexplosions` - Toggles whether explosions are allowed in your claim.
+* `/buyclaimblocks [amount]` - Purchases additional claim blocks using in-game currency.
 
 **Example:**
 To buy 100 extra claim blocks: `/buyclaimblocks 100`
