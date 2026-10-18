@@ -85,8 +85,8 @@ Right-click your shop sign to open the Shop Control panel in chat. From here you
 **Shop Modes:**
 Look at your shop sign and use:
 
-* `/qs sell` – Selling shop. Other players buy items from you. You earn money.
-* `/qs buy` – Buying shop. Other players sell items to you. They're paid from your balance.
+* `/qs sell` - Selling shop. Other players buy items from you. You earn money.
+* `/qs buy` - Buying shop. Other players sell items to you. They're paid from your balance.
 
 ![A buying shop](./img/shop/shop-mode-2.png)
 
@@ -102,8 +102,8 @@ To change your shop's price to $5 each: `/qs price 5`
 
 **Commands:**
 
-* `/qs remove` – Removes the shop you're looking at. Look directly at the shop's sign or chest first.
-* `/qs removeall` – Removes all of your shops.
+* `/qs remove` - Removes the shop you're looking at. Look directly at the shop's sign or chest first.
+* `/qs removeall` - Removes all of your shops.
 
 After removing a shop, you can break the chest as normal.
 

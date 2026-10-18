@@ -29,6 +29,6 @@ These slash commands are available to everyone in our Discord server.
 
 :::note
 
-Some commands only work if the related feature is enabled by staff (for example, `/shopdirectory` requires the Shop Directory feature). If a command says a feature is disabled, that's expected — it isn't an error on your end.
+Some commands only work if the related feature is enabled by staff (for example, `/shopdirectory` requires the Shop Directory feature). If a command says a feature is disabled, that's expected - it isn't an error on your end.
 
 :::

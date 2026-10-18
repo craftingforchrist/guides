@@ -35,8 +35,8 @@ The system is controlled through a simple command:
 /pvp <enable|disable>
 ```
 
-* `/pvp enable` — Opts you into PVP. You can fight and be fought by others who have also enabled PVP.
-* `/pvp disable` — Opts you out of PVP. You are protected from PVP and cannot attack others.
+* `/pvp enable` - Opts you into PVP. You can fight and be fought by others who have also enabled PVP.
+* `/pvp disable` - Opts you out of PVP. You are protected from PVP and cannot attack others.
 
 Typing `/pvp` without arguments will display usage instructions.
 
@@ -56,7 +56,7 @@ If an attempted attack is blocked, both players will receive a notification expl
 
 The `/pvp` system decides whether damage can happen at all. On top of that, our rules ask for one more thing: no PVP unless weapons are drawn by all parties.
 
-In practice that means opting in isn't an invitation on its own. Someone with PVP enabled while they're farming or building hasn't agreed to a fight — they've just left the option open. Give them a moment to draw a weapon, and if they don't, leave them be.
+In practice that means opting in isn't an invitation on its own. Someone with PVP enabled while they're farming or building hasn't agreed to a fight - they've just left the option open. Give them a moment to draw a weapon, and if they don't, leave them be.
 
 :::info Why both
 
@@ -80,7 +80,7 @@ To prevent abuse, toggling your PVP status is subject to a cooldown.
 
 | Problem                      | Solution                                              |
 | ---------------------------- | ----------------------------------------------------- |
-| Can't use the `/pvp` command | You may not have permission — contact a staff member  |
+| Can't use the `/pvp` command | You may not have permission - contact a staff member  |
 | Can't toggle PVP             | Wait for the cooldown to expire                       |
 | Attacks don't deal damage    | Ensure both you and the other player have PVP enabled |
 

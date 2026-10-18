@@ -39,7 +39,7 @@ Look for a spot that’s:
 
 * Near a warp or road for easy travel back to shops, spawn, or friends.
 * Far enough from others’ builds to respect their space and allow you room to grow.
-* **In a biome you enjoy** — forests, plains, mountains, or deserts can all be great homes depending on your style.
+* **In a biome you enjoy** - forests, plains, mountains, or deserts can all be great homes depending on your style.
 
 ### 3. Gather Resources
 
@@ -62,5 +62,12 @@ Before night falls, make a safe place to stay:
 
 To keep our world friendly and welcoming:
 
-* **Respect other players’ builds** — no griefing, stealing, or trespassing.
-* **Keep chat clean and kind** — we want a family-friendly community.
+* **Respect other players’ builds** - no griefing, stealing, or trespassing.
+* **Keep chat clean and kind** - we want a family-friendly community.
+* **Keep builds appropriate** - no obscene or questionable builds, names or language. What you build is as visible as what you say.
+
+:::tip Not sure a build is okay?
+
+If you want to make something you're unsure about, but you think the context justifies it, check with a Staff Member first. Asking ahead is always treated as good faith.
+
+:::

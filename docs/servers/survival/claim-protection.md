@@ -11,7 +11,7 @@ import Persona from '@site/src/components/Persona';
 </Persona>
 
 **Overview:**
-Protecting your builds is one of the most important parts of playing on the server. Our land claim system ensures that no one can break, place, or steal in your area without your permission — keeping your creations safe from griefing.
+Protecting your builds is one of the most important parts of playing on the server. Our land claim system ensures that no one can break, place, or steal in your area without your permission - keeping your creations safe from griefing.
 
 This guide will walk you through everything you need to know about land claims, from basic setup to advanced permissions and effective claim management.
 
@@ -42,22 +42,46 @@ Creates a claim where you are standing. The size depends on your available claim
 2. Type `/claim` in chat.
 3. The land will be protected using your available claim blocks.
 
+### How Claim Blocks Work
+
+Every block of land you claim costs **claim blocks**. You start with a pool of them, earn more just by playing, and can top up with in-game currency if you need to claim faster than you earn.
+
+| Setting | Value |
+| --- | --- |
+| Starting claim blocks (new player) | 5,000 |
+| Earned per hour of playtime | 500 |
+| Maximum you can accrue | 500,000 |
+
+Claim blocks are spent across a claim's horizontal area, so a 5,000-block pool is enough for a reasonably sized starter base. Earning keeps going the whole time you play, up to the 500,000 cap:
+
+| Playtime | Total claim blocks |
+| --- | --- |
+| New player | 5,000 |
+| 1 hour | 5,500 |
+| 10 hours | 10,000 |
+| 24 hours | 17,000 |
+| 100 hours | 55,000 |
+| 500 hours | 255,000 |
+| 990 hours | 500,000 |
+
+Check your balance any time with `/claimblocks`. If you run out, earn more by playing or buy more with `/buyclaimblocks [amount]` (see [Additional Features](#additional-features) below).
+
 ### Managing Permissions
 
 Granting or removing permissions allows you to control who can interact with your land. Our claim plugin (GriefDefender) uses four trust levels, each with its own command:
 
-* `/accesstrust [player]` – Lets a player enter your claim and use doors, buttons, levers, and beds.
-* `/containertrust [player]` – Adds access to chests, furnaces, hoppers, crops, and animals, plus everything accessor trust grants.
-* `/trust [player]` – Grants full build/edit access (break and place blocks), plus everything container trust grants. This is the standard "trust a friend" command.
-* `/permissiontrust [player]` – Grants management access, including the ability to change claim permissions and settings, plus everything builder trust grants.
+* `/accesstrust [player]` - Lets a player enter your claim and use doors, buttons, levers, and beds.
+* `/containertrust [player]` - Adds access to chests, furnaces, hoppers, crops, and animals, plus everything accessor trust grants.
+* `/trust [player]` - Grants full build/edit access (break and place blocks), plus everything container trust grants. This is the standard "trust a friend" command.
+* `/permissiontrust [player]` - Grants management access, including the ability to change claim permissions and settings, plus everything builder trust grants.
 
 To trust everyone (not just one player), use `public` instead of a player name, e.g. `/trust public`.
 
 **Removing Access:**
 
-* `/untrust [player]` – Revokes all trust levels for a specific player.
-* `/untrust all` – Removes all trusted players from the claim.
-* `/trustlist` – Displays a list of players trusted in your claim and their trust level.
+* `/untrust [player]` - Revokes all trust levels for a specific player.
+* `/untrust all` - Removes all trusted players from the claim.
+* `/trustlist` - Displays a list of players trusted in your claim and their trust level.
 
 **Example:**
 To grant player shadowolfyt full build permissions:
@@ -67,8 +91,8 @@ To grant player shadowolfyt full build permissions:
 
 **Commands:**
 
-* `/abandonclaim` – Deletes the claim you are standing in.
-* `/abandonallclaims` – Deletes all of your claims.
+* `/abandonclaim` - Deletes the claim you are standing in.
+* `/abandonallclaims` - Deletes all of your claims.
 
 **Important:** Abandoning a claim will remove all protections, and the land becomes available for others to claim.
 
@@ -94,8 +118,8 @@ If you're planning something near someone else's base, contact them first. They 
 
 ### Additional Features
 
-* `/claimexplosions` – Toggles whether explosions are allowed in your claim.
-* `/buyclaimblocks [amount]` – Purchases additional claim blocks using in-game currency.
+* `/claimexplosions` - Toggles whether explosions are allowed in your claim.
+* `/buyclaimblocks [amount]` - Purchases additional claim blocks using in-game currency.
 
 **Example:**
 To buy 100 extra claim blocks: `/buyclaimblocks 100`
@@ -107,7 +131,7 @@ To buy 100 extra claim blocks: `/buyclaimblocks 100`
 * Only trust players you know and remove access with `/untrust` if needed.
 * Leave a buffer between your claim and others for paths and expansion.
 * Regularly review permissions using `/trustlist`.
-* Be careful when abandoning claims — protection is removed instantly.
+* Be careful when abandoning claims - protection is removed instantly.
 * Expand your land protection by earning more claim blocks through play or purchasing them.
 
 ### Troubleshooting & Common Issues

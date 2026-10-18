@@ -15,7 +15,7 @@ Death is a natural part of survival gameplay, but losing your hard-earned items 
 ## What Happens When You Die
 
 When you die, instead of your items scattering all over the ground, they are stored securely in a grave placed at the location of your death.
-This grave contains everything you had on you at the time of death — your inventory, armor, and off-hand item — so nothing is lost.
+This grave contains everything you had on you at the time of death - your inventory, armor, and off-hand item - so nothing is lost.
 
 ## How to Recover Your Items
 
@@ -34,4 +34,4 @@ Follow these steps to get your items back:
 ## Time Limit for Graves
 
 Graves will remain at your death location for 3 hours. After this time, the grave will despawn permanently, and your items will be lost.
-Make sure to retrieve your grave as soon as possible — especially if you are far away from home.
+Make sure to retrieve your grave as soon as possible - especially if you are far away from home.

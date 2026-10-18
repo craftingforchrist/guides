@@ -78,7 +78,7 @@ Each channel is there for a reason, and people mute the ones they don't need. Ke
 
 Nothing inappropriate, in any channel. That includes links that lead somewhere inappropriate, not just the content itself.
 
-Advertising other servers or posting unrelated Discord invites isn't allowed either. Sharing an online church or pastoral care service is usually fine — ask a Staff Member first if you're not sure.
+Advertising other servers or posting unrelated Discord invites isn't allowed either. Sharing an online church or pastoral care service is usually fine - ask a Staff Member first if you're not sure.
 
 ### Voice Channels
 
@@ -92,7 +92,7 @@ Voice is the easiest place to make someone's evening worse without meaning to, s
 
 :::info Voice channels aren't recorded
 
-Staff can't go back and check what was said in voice the way they can with chat logs. If something happens in a voice channel that makes you uncomfortable, leave straight away and report it — see [Safety Tools](/safeserver/safety-tools).
+Staff can't go back and check what was said in voice the way they can with chat logs. If something happens in a voice channel that makes you uncomfortable, leave straight away and report it - see [Safety Tools](/safeserver/safety-tools).
 
 :::
 
