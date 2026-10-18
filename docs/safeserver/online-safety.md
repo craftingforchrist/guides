@@ -36,7 +36,7 @@ Here are some key "Do's" and "Don'ts" to help you make smart choices while playi
 
 #### ❌ What Not to Do:
 * **Don’t Share Passwords or Login Info:** Never give out your passwords or account details to anyone, even friends. Keeping your account secure is important to protect your personal information and in-game items.
-* **Don’t Download from Untrusted Links:** If someone sends you a link for a download—like a mod, texture pack, or anything else—make sure it’s from a source you trust. Downloads from unknown sources could contain viruses that harm your device or steal your information.
+* **Don’t Download from Untrusted Links:** If someone sends you a link for a download-like a mod, texture pack, or anything else-make sure it’s from a source you trust. Downloads from unknown sources could contain viruses that harm your device or steal your information.
 
 ### Warning Signs to Watch For
 Most people you meet online are exactly who they say they are. But some people pretend to be friendly because they want something from you. Be careful if someone:

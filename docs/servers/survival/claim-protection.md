@@ -11,7 +11,7 @@ import Persona from '@site/src/components/Persona';
 </Persona>
 
 **Overview:**
-Protecting your builds is one of the most important parts of playing on the server. Our land claim system ensures that no one can break, place, or steal in your area without your permission — keeping your creations safe from griefing.
+Protecting your builds is one of the most important parts of playing on the server. Our land claim system ensures that no one can break, place, or steal in your area without your permission - keeping your creations safe from griefing.
 
 This guide will walk you through everything you need to know about land claims, from basic setup to advanced permissions and effective claim management.
 
@@ -131,7 +131,7 @@ To buy 100 extra claim blocks: `/buyclaimblocks 100`
 * Only trust players you know and remove access with `/untrust` if needed.
 * Leave a buffer between your claim and others for paths and expansion.
 * Regularly review permissions using `/trustlist`.
-* Be careful when abandoning claims — protection is removed instantly.
+* Be careful when abandoning claims - protection is removed instantly.
 * Expand your land protection by earning more claim blocks through play or purchasing them.
 
 ### Troubleshooting & Common Issues

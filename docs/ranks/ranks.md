@@ -11,7 +11,7 @@ import Persona from '@site/src/components/Persona';
   The server stays free because people quietly chip in.
 </Persona>
 
-Crafting For Christ is more than just a Minecraft server — it’s a vibrant, faith-centered community built by players, for players. Keeping the server online, safe, and enjoyable for everyone requires ongoing support from our community members. Your contributions, whether big or small, make a tangible difference in ensuring that everyone can enjoy a high-quality, free-to-play experience.
+Crafting For Christ is more than just a Minecraft server - it’s a vibrant, faith-centered community built by players, for players. Keeping the server online, safe, and enjoyable for everyone requires ongoing support from our community members. Your contributions, whether big or small, make a tangible difference in ensuring that everyone can enjoy a high-quality, free-to-play experience.
 
 ## Why Support the Server?
 
@@ -21,7 +21,7 @@ Running a Minecraft server that is stable, secure, and full of features requires
 * **Development & Plugins:** Funding custom plugins, events, and features that make Crafting For Christ unique.
 * **Community Events & Activities:** Supporting seasonal events, competitions, and activities that bring the community together.
 
-Supporting the server is more than a payment — it’s an investment in the continued growth and improvement of the community.
+Supporting the server is more than a payment - it’s an investment in the continued growth and improvement of the community.
 
 ## How You Can Support
 
@@ -44,4 +44,4 @@ Supporting Crafting For Christ comes with rewards that enhance your gameplay exp
 * **Community Impact:** Help keep the server free-to-play for everyone.
 * **Recognition:** Your support shows that you care about the longevity and growth of the server.
 
-By contributing, you’re not just enhancing your own experience — you’re investing in a better experience for every player on the server.
+By contributing, you’re not just enhancing your own experience - you’re investing in a better experience for every player on the server.

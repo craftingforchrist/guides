@@ -16,7 +16,7 @@ No. You must not try to uncover the world seed, and you must not share it if you
 
 The seed lets anyone load our world offline and find every stronghold, every ancient city and every unmined vein before anyone else gets there. Knowing it takes the exploration out of Survival for everybody else, so we treat hunting for it as cheating.
 
-If someone offers you the seed, don't take it — report it with `/report` or a ticket on our [Discord](https://craftingforchrist.net/discord).
+If someone offers you the seed, don't take it - report it with `/report` or a ticket on our [Discord](https://craftingforchrist.net/discord).
 
 # Why doesn't the Server have TPA, why won't it be enabled?
 Our goal has always been for more community focus on things like our warps via Spawn and our Nether highway. 

@@ -28,7 +28,7 @@ This means outcomes vary, and that's intentional. It lets us be gentle where gen
 
 :::info "But someone else got off lighter"
 
-Possibly — they may have had a different history, or the context may have been different. We can't discuss another player's punishment with you, in the same way we wouldn't discuss yours with them.
+Possibly - they may have had a different history, or the context may have been different. We can't discuss another player's punishment with you, in the same way we wouldn't discuss yours with them.
 
 :::
 
@@ -42,7 +42,7 @@ Depending on severity, an outcome might be:
 * A temporary ban
 * A permanent ban
 
-Some things sit at the serious end almost regardless of context — hate speech, doxxing, threats, anything that puts a younger player at risk, and attacks on the Network itself.
+Some things sit at the serious end almost regardless of context - hate speech, doxxing, threats, anything that puts a younger player at risk, and attacks on the Network itself.
 
 :::note The Senior Staff Team's discretion
 
@@ -52,9 +52,9 @@ Beyond the case-by-case approach above, the Senior Staff Team keeps the right to
 
 ### Griefing and Rollbacks
 
-If you've been griefed, Staff can usually inspect what happened and roll the damage back. Report it rather than repairing it yourself — rebuilding over the top makes the logs harder to read.
+If you've been griefed, Staff can usually inspect what happened and roll the damage back. Report it rather than repairing it yourself - rebuilding over the top makes the logs harder to read.
 
-A prank between friends isn't griefing, and we don't treat it as one. Rearranging someone's chest room when you know they'll laugh is fine. What matters is whether the person on the receiving end is in on it — if you have to guess, ask them first.
+A prank between friends isn't griefing, and we don't treat it as one. Rearranging someone's chest room when you know they'll laugh is fine. What matters is whether the person on the receiving end is in on it - if you have to guess, ask them first.
 
 The rollback and the punishment are separate. Getting your base restored doesn't mean nothing happened to the person responsible; we just don't discuss the details with you.
 
@@ -71,13 +71,13 @@ You can appeal any punishment.
 1. Go to [craftingforchrist.net/appeal](https://craftingforchrist.net/appeal). That's the quickest route, and it goes straight to the right people.
 2. If you can't reach the appeal form, open a ticket on our [Discord](https://craftingforchrist.net/discord) with `/support create`, or email support@craftingforchrist.net.
 3. Tell us your in-game name, roughly when it happened, and what you'd like us to look at again.
-4. Include anything relevant — screenshots, context, or simply your side of it.
+4. Include anything relevant - screenshots, context, or simply your side of it.
 
 **What helps:**
 
 * Being straight about what happened, including the parts that don't flatter you
 * Explaining context we might have missed
-* Giving it a little time — appeals are read by a person, not a bot
+* Giving it a little time - appeals are read by a person, not a bot
 
 **What doesn't:**
 
@@ -91,7 +91,7 @@ Staff are people, and people make mistakes. If you believe you've been wrongly p
 
 Email support@craftingforchrist.net or open a ticket on our [Discord](https://craftingforchrist.net/discord) with whatever evidence or details you have. It goes to the Senior Staff Team.
 
-Please raise it that way rather than in public chat. It gets a fairer hearing, and it's kinder to everyone involved — including you, if it turns out you were right.
+Please raise it that way rather than in public chat. It gets a fairer hearing, and it's kinder to everyone involved - including you, if it turns out you were right.
 
 ### Reporting Someone Else
 

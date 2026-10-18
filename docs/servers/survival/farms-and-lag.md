@@ -13,7 +13,7 @@ import Persona from '@site/src/components/Persona';
 **Overview:**
 We love a good farm. Big automated builds are some of the most impressive things on the server, and we don't want to discourage them.
 
-The catch is that our Survival world runs on one machine shared by everyone online. A farm that's a bit too enthusiastic doesn't just lag you — it lags the player fighting in the Nether and the player building in the Shopping District too.
+The catch is that our Survival world runs on one machine shared by everyone online. A farm that's a bit too enthusiastic doesn't just lag you - it lags the player fighting in the Nether and the player building in the Shopping District too.
 
 This page explains what causes that, what we restrict, and how to build big without causing problems. It's the long version of the lag and farms rules in our [Network Rules](https://craftingforchrist.net/rules).
 
@@ -21,8 +21,8 @@ This page explains what causes that, what we restrict, and how to build big with
 
 Two things cost the server most of its effort:
 
-* **Entities** — items, mobs, minecarts, armour stands, dropped XP. Every one of them has to be tracked and updated constantly.
-* **Redstone updates** — every time a redstone component changes state, the server recalculates that area.
+* **Entities** - items, mobs, minecarts, armour stands, dropped XP. Every one of them has to be tracked and updated constantly.
+* **Redstone updates** - every time a redstone component changes state, the server recalculates that area.
 
 A farm that produces items faster than they're collected, or a clock that ticks constantly whether or not anyone is nearby, quietly builds up cost until everyone notices.
 
@@ -40,14 +40,14 @@ All automated farms in the Community District must have an on/off switch, since 
 
 ### Excessive Entities
 
-If a farm produces so many entities that it causes noticeable lag, the offending entities — and the farm — may be removed.
+If a farm produces so many entities that it causes noticeable lag, the offending entities - and the farm - may be removed.
 
 Some practical ways to stay clear of that:
 
 * Make sure output actually reaches a hopper or chest rather than piling up on the floor
 * Kill mobs promptly instead of letting them stack in a holding area
 * Use water streams and hoppers rather than letting items scatter
-* Check your item counts occasionally — a blocked hopper can turn a fine farm into a problem one overnight
+* Check your item counts occasionally - a blocked hopper can turn a fine farm into a problem one overnight
 
 ### Redstone Clocks
 
@@ -59,13 +59,13 @@ The usual offenders are clocks left running permanently in loaded chunks doing n
 
 **Allowed:** small flying machines for elevators, complex doors, mob and block transport, storage systems and minigames. These are great, and we're happy to see them.
 
-**Not allowed:** flying machines carrying TNT — commonly called world-eaters. They clear enormous areas, generate huge numbers of block updates and entities, and permanently reshape terrain other players may be using.
+**Not allowed:** flying machines carrying TNT - commonly called world-eaters. They clear enormous areas, generate huge numbers of block updates and entities, and permanently reshape terrain other players may be using.
 
 ### TNT Duplication
 
 * Stationary dupers are fine for small farms.
 * Flying TNT dupers are not allowed at all.
-* Stationary dupers at scale aren't allowed either — if it's feeding a world-eater-sized operation, it's over the line.
+* Stationary dupers at scale aren't allowed either - if it's feeding a world-eater-sized operation, it's over the line.
 
 ### Restricted Farms
 
@@ -75,7 +75,7 @@ Some farms are held back until The End has been beaten on the server:
 * Gold farms
 * Iron farms
 
-These can't be built until The End is free. It's a progression thing rather than a lag thing — these farms trivialise resources the server is still working towards together.
+These can't be built until The End is free. It's a progression thing rather than a lag thing - these farms trivialise resources the server is still working towards together.
 
 ### The End's Outer Islands
 
@@ -93,7 +93,7 @@ The Staff Team isn't responsible for builds or items lost in a reset. The main i
 
 Senior Staff may remove players who have been AFK for an extended period.
 
-It isn't a punishment and it isn't personal — an idle player still keeps chunks loaded and entities ticking. If you're asked to come back or log off, that's why.
+It isn't a punishment and it isn't personal - an idle player still keeps chunks loaded and entities ticking. If you're asked to come back or log off, that's why.
 
 ### If Your Build Gets Flagged
 

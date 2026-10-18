@@ -10,7 +10,7 @@ import Persona from '@site/src/components/Persona';
   Half of playing well is knowing which command to reach for.
 </Persona>
 
-These are the [PGM](https://pgm.dev) commands you'll use on Mixed. Aliases are shown in brackets — any of them does the same thing. Arguments in `[square brackets]` are things you fill in.
+These are the [PGM](https://pgm.dev) commands you'll use on Mixed. Aliases are shown in brackets - any of them does the same thing. Arguments in `[square brackets]` are things you fill in.
 
 ## Joining and Teams
 

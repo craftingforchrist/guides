@@ -11,7 +11,7 @@ import Persona from '@site/src/components/Persona';
 </Persona>
 
 **Overview:**
-The Community District is a shared area of the Survival world where players build things for everyone to use. Farms, arenas, trading halls, a donation centre — if it's useful to the server and open to all, it belongs here.
+The Community District is a shared area of the Survival world where players build things for everyone to use. Farms, arenas, trading halls, a donation centre - if it's useful to the server and open to all, it belongs here.
 
 It's the one place where you build for other people rather than for yourself. This page explains how that works and the few rules that keep it usable. It's the long version of the Community District rules in our [Network Rules](https://craftingforchrist.net/rules).
 
@@ -53,7 +53,7 @@ A lever anyone can reach, clearly labelled, is better than a hidden one only you
 
 :::
 
-For everything else about keeping farms server-friendly — entity counts, redstone clocks, what gets flagged — see [Farms, Redstone & Server Lag](./farms-and-lag).
+For everything else about keeping farms server-friendly - entity counts, redstone clocks, what gets flagged - see [Farms, Redstone & Server Lag](./farms-and-lag).
 
 ### Looking After the Space
 

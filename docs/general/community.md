@@ -54,7 +54,7 @@ Spamming means sending several messages in a short space of time, repeating the 
 
 ## A Few Network-Wide Rules
 
-These apply everywhere Crafting for Christ operates — the Minecraft servers, this website and our Discord.
+These apply everywhere Crafting for Christ operates - the Minecraft servers, this website and our Discord.
 
 ### Chat in English
 
@@ -70,7 +70,7 @@ Your username, skin, avatar and profile picture are seen by everyone, including 
 
 :::info This one is handled differently
 
-An inappropriate username or skin results in a ban that lasts until you've changed it. It isn't meant as a punishment — the ban lifts as soon as the problem is fixed.
+An inappropriate username or skin results in a ban that lasts until you've changed it. It isn't meant as a punishment - the ban lifts as soon as the problem is fixed.
 
 :::
 
@@ -78,22 +78,22 @@ An inappropriate username or skin results in a ban that lasts until you've chang
 
 Posting links to other servers, or Discord invites unrelated to Crafting for Christ, isn't allowed.
 
-Sharing an online church or a pastoral care service is usually fine. If you're not sure whether something counts as advertising, ask a Staff Member before you post it — nobody minds being asked.
+Sharing an online church or a pastoral care service is usually fine. If you're not sure whether something counts as advertising, ask a Staff Member before you post it - nobody minds being asked.
 
 ### Keep It Clean Everywhere
 
-Don't post links or content that lead to, or contain, NSFW or otherwise inappropriate material. This applies everywhere — in-game chat, this website and Discord — not just one of them. Our youngest players are in all of those spaces.
+Don't post links or content that lead to, or contain, NSFW or otherwise inappropriate material. This applies everywhere - in-game chat, this website and Discord - not just one of them. Our youngest players are in all of those spaces.
 
 ### No Attacks on the Network or Its Players
 
 A few things cross from breaking a rule into attacking the community itself, and they're treated at the most serious end:
 
 * **DDOS or DOS threats or attacks.** Threatening or attempting to knock the Network or a player offline is never tolerated. On Discord, even a DDOS *threat* is treated as a Terms of Service violation.
-* **Doxxing.** Threatening to share, actually sharing, or cheering on the sharing of someone's private information is not allowed. If someone does this to you, don't engage — tell a Staff Member.
+* **Doxxing.** Threatening to share, actually sharing, or cheering on the sharing of someone's private information is not allowed. If someone does this to you, don't engage - tell a Staff Member.
 
 ### Be Straight With Staff
 
-Follow directions from Staff promptly. If you think a Staff Member has got something wrong, don't argue it out in chat — raise it the way described in [Punishments & Appeals](./punishments-and-appeals.md).
+Follow directions from Staff promptly. If you think a Staff Member has got something wrong, don't argue it out in chat - raise it the way described in [Punishments & Appeals](./punishments-and-appeals.md).
 
 Don't lie to a Staff Member who's looking into something. Owning up to what happened is always the shorter road, and honesty is weighed in your favour when an outcome is being decided.
 

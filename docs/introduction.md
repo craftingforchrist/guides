@@ -11,7 +11,7 @@ import Persona from '@site/src/components/Persona';
   You're joining a world other people already call home.
 </Persona>
 
-Crafting For Christ is more than just a Minecraft network — it’s a safe, family-friendly, faith-based community where players of all ages can play, build, and grow together.
+Crafting For Christ is more than just a Minecraft network - it’s a safe, family-friendly, faith-based community where players of all ages can play, build, and grow together.
 
 If this is your first time joining, this guide will walk you through everything you need to know to get started, find your way around, and begin your adventure.
 

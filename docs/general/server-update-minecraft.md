@@ -11,12 +11,12 @@ import Persona from '@site/src/components/Persona';
 </Persona>
 
 ## Overview  
-When Mojang releases a new Minecraft update as drops every 6 months or so, we as the community are often excited to try the new features right away. However, you may notice that our server doesn’t update instantly. This is intentional — we wait to update in order to keep the experience smooth, stable, and available to everyone.  
+When Mojang releases a new Minecraft update as drops every 6 months or so, we as the community are often excited to try the new features right away. However, you may notice that our server doesn’t update instantly. This is intentional - we wait to update in order to keep the experience smooth, stable, and available to everyone.  
 
 ## Why the Delay Happens  
 
 ### 1. Compatibility Needs Time  
-When a new Minecraft version is released, many of the tools, systems and integrations that our server relies on — need to be updated as well. Updating too soon could mean:  
+When a new Minecraft version is released, many of the tools, systems and integrations that our server relies on - need to be updated as well. Updating too soon could mean:  
 - Features break or behave unpredictably  
 - Player data or builds could be at risk  
 
