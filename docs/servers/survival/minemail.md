@@ -13,7 +13,18 @@ import Persona from '@site/src/components/Persona';
 **Overview:**
 MineMail is Survival's postal system. You build a mailbox out of a barrel, then send letters, items and money to other players' mailboxes, even when they're offline. You can also share a mailbox with friends or run one together as a group.
 
-🎥 **Watch the intro video:** [MineMail on YouTube](https://youtu.be/aLBKRlkRRo4)
+🎥 **Watch the intro video:**
+
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', maxWidth: '100%', marginBottom: '1rem'}}>
+  <iframe
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%'}}
+    src="https://www.youtube-nocookie.com/embed/aLBKRlkRRo4"
+    title="MineMail intro video"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowFullScreen>
+  </iframe>
+</div>
 
 All MineMail commands start with `/minemail`, or the shorter `/mail` or `/mm`. Typing `/mail` on its own shows the help menu.
 
