@@ -106,8 +106,12 @@ The Mixed server is competitive, so several mods that are perfectly fine on Surv
 
 Minimaps are the one to watch - allowed on Survival, not on Mixed.
 
+Lunar Client and Badlion Client are still fine on Mixed, as long as their built-in minimap and health indicator are turned off.
+
+For how fair play works in a match, see [Match Conduct](../servers/mixed/match-conduct.md).
+
 ### Found an Exploit Instead of a Mod?
 
 If you've stumbled across a glitch in the game or one of our plugins, please don't quietly use it. Report it at [craftingforchrist.net/issues](https://craftingforchrist.net/issues) or raise a ticket on our [Discord](https://craftingforchrist.net/discord).
 
-Reporting an exploit is genuinely appreciated, and it's never held against you.
+Reporting an exploit is genuinely appreciated, and it's never held against you. For more on what counts as an exploit, see [Exploits and Fair Play](./exploits-and-fair-play.md).

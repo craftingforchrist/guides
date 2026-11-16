@@ -10,6 +10,12 @@ import Persona from '@site/src/components/Persona';
   Everyone gets the same quest. That's what makes the leaderboard mean something.
 </Persona>
 
+:::note Coming back soon
+
+Daily quests are coming back soon on the new map.
+
+:::
+
 **Overview:**
 Every day the Quest Keeper sets one task for the whole server. Complete it and you earn a Quest Point, build your streak, and climb the leaderboard.
 
