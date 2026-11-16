@@ -141,12 +141,3 @@ Channel summaries are controlled by the server, not by this setting.
 {/* TODO: once Staff decide which of our channels (if any) are part of Discord's web presence, say so here. */}
 
 The safest habit is the same one we always give: never share personal details in any channel. See [Online Safety Do's and Don'ts](./online-safety.md).
-
-### Voice Chat
-Voice channels on our Discord are not recorded, and staff are not usually listening in. Because of this:
-
-* Voice is for people who already know each other.
-* If anything happens in a voice channel that makes you uncomfortable, leave the channel straight away, then report it with `/report` or a support ticket.
-
-Discord also has a Clips feature that can let someone in a voice channel save a short recording that includes your voice. To keep your voice out of other people's clips, go to **User Settings > Data & Privacy** and turn off **Allow my voice to be recorded in Clips**.
-
