@@ -63,7 +63,7 @@ Our staff and players live across many time zones, so how quickly a report is pi
 The Minecraft Social Interaction Screen is a useful tool designed to help players maintain a safe and positive experience while playing on multiplayer servers. Here's a guide on how to use it and when to make the most of it to ensure your safety.
 
 ### What is the Social Interaction Screen?
-The Social Interaction Screen allows players to manage communication with other players during multiplayer sessions. This screen can be accessed quickly and is primarily used to hide or report messages from players who may be engaging in inappropriate or offensive behavior. It helps you stay focused on your game while ensuring that negative interactions don't affect your experience.
+The Social Interaction Screen allows players to manage communication with other players during multiplayer sessions. This screen can be accessed quickly and is used to hide messages from players who may be engaging in inappropriate or offensive behavior. It helps you stay focused on your game while ensuring that negative interactions don't affect your experience.
 
 ### How to Access the Social Interaction Screen
 * In Multiplayer Games: Press the default key P to open the Social Interaction Screen.
@@ -71,14 +71,19 @@ The Social Interaction Screen allows players to manage communication with other 
 
 Once opened, you will see a list of players who have sent chat messages recently or who are currently in your game.
 
+:::warning Reporting from this screen doesn't work on our servers
+
+The Report button on the Social Interaction Screen no longer works on Crafting For Christ. Use it to hide messages, but to report a player, use `/report` in-game or open a ticket on our [Discord](https://craftingforchrist.net/discord). See [Reporting Players: Using /report](#reporting-players-using-report) above.
+
+:::
+
 ### Features of the Social Interaction Screen
 * **Hiding Messages from Players:** If someone is spamming or being inappropriate in the chat, you can mute or hide their messages through the Social Interaction Screen. This ensures that you no longer see any future messages from them while playing, creating a more enjoyable environment.
-* **Reporting Players for Abusive Messages:** You can also report players if they send abusive or harmful messages in the chat. This feature helps ensure that players are held accountable for their behavior, protecting others from toxic interactions.
-* **Managing Who You See in Chat:** You can quickly search for players by name to either hide their chat or report their messages. This gives you more control over your interactions and keeps the chat positive.
+* **Managing Who You See in Chat:** You can quickly search for players by name to hide their chat. This gives you more control over your interactions and keeps the chat positive.
 
 ### When to Use the Social Interaction Screen
-* **When Someone is Making You Uncomfortable:** If a player’s messages are making you feel uncomfortable or unsafe, it's a good idea to hide their messages and report them if necessary. This ensures you don't have to endure harassment or inappropriate language.
-* **If Someone is Bullying or Harassing You:** Cyberbullying is a serious issue, and if someone is targeting you or another player with abusive messages, don’t hesitate to use the Social Interaction Screen to mute and report them. It's better to act early than to allow the behavior to continue.
+* **When Someone is Making You Uncomfortable:** If a player’s messages are making you feel uncomfortable or unsafe, it's a good idea to hide their messages and report them with `/report`. This ensures you don't have to endure harassment or inappropriate language.
+* **If Someone is Bullying or Harassing You:** Cyberbullying is a serious issue, and if someone is targeting you or another player with abusive messages, don’t hesitate to use the Social Interaction Screen to hide their messages and report them with `/report`. It's better to act early than to allow the behavior to continue.
 * **To Stay Above Reproach in Conversations** If an older player or stranger is engaging with you one-on-one, it's wise to use the Social Interaction Screen to avoid potentially compromising situations.
 
 ## Staying Safe on Discord
