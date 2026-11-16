@@ -19,7 +19,7 @@ Chat is where most of the community happens, so a few simple guidelines keep it 
 
 ## Keep it clean
 
-- No swearing or cursing. That includes censored or misspelled swear words, and abbreviations of them.
+- No swearing or cursing. That includes censored or misspelled swear words, and abbreviations of them. Mild words like heck or frick aren't counted as swearing, but Staff may ask you to tone it down.
 - No rudeness. Disagreeing is fine. Insulting people is not.
 - Nothing inappropriate. If you wouldn't say it in front of a younger player's parents, don't say it in chat.
 

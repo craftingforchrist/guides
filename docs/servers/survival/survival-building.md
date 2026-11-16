@@ -29,6 +29,8 @@ Survival is one shared world, so how you build affects everyone around you. Here
 - Clearly mark your planned builds, so others know the space is taken.
 - Clearly mark who owns your base, farm or build, with a sign or a name.
 
+If someone builds right up against your claim, or you can't agree on who should have an area, talk to a Staff Member. Staff will look at each situation case by case and help work it out, and that can include asking someone to move their build.
+
 ## Claim your stuff
 
 Claiming your land protects it from griefing and theft. You earn claim blocks as you play. See [Claim Protection](./claim-protection.md) for how it works.
