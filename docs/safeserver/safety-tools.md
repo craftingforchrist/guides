@@ -113,9 +113,40 @@ If you're in any Discord server where you don't feel safe, you can leave it at a
 * **On desktop:** Right-click the server icon, then select **Leave Server**.
 * **On mobile:** Tap and hold the server icon (or tap the server name at the top of the channel list), then tap **Leave Server**.
 
+### Your Messages on the Web
+Discord has started showing some servers on public web pages, including in search engines like Google. If a server is listed in Discord's Server Discovery, Discord can create a web page for it with summaries of its public channels, and from mid-December 2026 it can show the messages people send in those channels.
+
+<Persona who="mabel">
+  Anything you type in a public channel could end up somewhere you didn't expect. If you wouldn't put it on a poster, don't put it in chat.
+</Persona>
+
+A few things to know:
+
+* **It only covers public channels in Discoverable servers.** Direct messages, group DMs, private servers and channels locked to certain roles aren't included.
+* **Your username and avatar aren't shown.** But what you write can still give you away, like your school, your suburb or a photo.
+* **Teen accounts are left out.** Discord doesn't show messages from accounts in its teen age group, and they can't turn the setting on.
+* **It may already be on.** In Australia the setting starts off, but in many other countries it starts on. It's worth checking either way.
+
+#### Turning it off
+1. Open **User Settings** (the gear icon next to your name at the bottom left on desktop).
+2. Select **Data & Privacy**.
+3. Turn off **Show my message content from Discoverable channels on web pages**.
+
+If you can't find the setting in the mobile app, log in at [discord.com/settings/data-and-privacy](https://discord.com/settings/data-and-privacy) in a browser. The change applies on all your devices.
+
+Turning it off only covers messages you send from then on. Anything you sent while it was on can still appear unless you delete it. Deleting a message removes it from Discord's web pages, though a search engine may hold onto a copy for a while.
+
+Channel summaries are controlled by the server, not by this setting.
+
+{/* TODO: once Staff decide which of our channels (if any) are part of Discord's web presence, say so here. */}
+
+The safest habit is the same one we always give: never share personal details in any channel. See [Online Safety Do's and Don'ts](./online-safety.md).
+
 ### Voice Chat
 Voice channels on our Discord are not recorded, and staff are not usually listening in. Because of this:
 
 * Voice is for people who already know each other.
 * If anything happens in a voice channel that makes you uncomfortable, leave the channel straight away, then report it with `/report` or a support ticket.
+
+Discord also has a Clips feature that can let someone in a voice channel save a short recording that includes your voice. To keep your voice out of other people's clips, go to **User Settings > Data & Privacy** and turn off **Allow my voice to be recorded in Clips**.
 

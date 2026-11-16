@@ -23,6 +23,11 @@ Voice channels on our Discord are a great way to build, play and hang out togeth
 
 Voice works best with people you already know and trust.
 
+## Discord Clips
+
+We don't record voice channels, but Discord has a Clips feature that can let someone in the channel save a short recording that includes your voice. If you'd rather that didn't happen, go to User Settings, then Data & Privacy, and turn off Allow my voice to be recorded in Clips.
+
+
 ## What's expected in voice
 
 - No mic spamming, like loud noises, screaming or holding down a soundboard.
